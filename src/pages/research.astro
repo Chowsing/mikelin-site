@@ -1,0 +1,50 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SectionTitle from '../components/SectionTitle.astro';
+import { getResearchInterests, getResearchProjects, groupBy, mergePreferredOrder } from '../lib/data';
+
+const interests = getResearchInterests();
+const projects = getResearchProjects();
+const groups = groupBy(projects, (item) => item.category);
+const orderedCategories = mergePreferredOrder(
+  ['教育部研究計畫', '國科會研究計畫', '大專生科技研究計畫', '產學合作計畫'],
+  Object.keys(groups),
+);
+---
+
+<BaseLayout title="研究" currentPath="/research">
+  <section class="section page-intro-section">
+    <div class="container">
+      <SectionTitle title="研究方向與計畫" />
+      <div class="chip-list">
+        {interests.map((interest) => <div class="chip">{interest}</div>)}
+      </div>
+    </div>
+  </section>
+
+  {
+    orderedCategories.map((category) => (
+      <section class="section">
+        <div class="container">
+          <SectionTitle title={category} />
+          <div class="project-grid">
+            {(groups[category] ?? []).map((project) => (
+              <article class="project-card">
+                <p class="kicker">{project.year}</p>
+                <h3>{project.topic ?? project.title}</h3>
+                {project.topic && <p>{project.title}</p>}
+                <div class="project-meta">
+                  {project.period && <span class="meta-label">執行期限：{project.period}</span>}
+                  {project.sponsor && <span class="meta-label">補助單位：{project.sponsor}</span>}
+                  {project.partner && <span class="meta-label">合作單位：{project.partner}</span>}
+                  {project.role && <span class="meta-label">職稱：{project.role}</span>}
+                  {project.projectNumber && <span class="meta-label">計畫編號：{project.projectNumber}</span>}
+                </div>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+    ))
+  }
+</BaseLayout>

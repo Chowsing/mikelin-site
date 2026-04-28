@@ -1,0 +1,275 @@
+- category: 球類競賽
+  year: 2025
+  text: 2025年曼茲羽球隊會內3對3 冠軍
+  textEn: Champion, Manz Badminton Team 3-on-3 in-team tournament, 2025
+- category: 論文發表
+  year: 2024
+  text: 最佳簡報獎：2024 8th International Symposium on Computer Science and Intelligent
+    Control (ISCSIC 2024), Zhengzhou, China, 2024. 論文題目：Combining Anomaly
+    Detection to Improve Generalization and Detection Accuracy of Few Shot
+    Object Detection
+  textEn: "Best Presentation Award, 2024 8th International Symposium on Computer Science and Intelligent Control (ISCSIC 2024), Zhengzhou, China. Paper title: Combining Anomaly Detection to Improve Generalization and Detection Accuracy of Few-Shot Object Detection"
+- category: 專題參賽
+  year: 2024
+  text: 佳作、最佳人氣獎：2024國立臺南大學資訊工程系專題競賽 智慧系統創新設計組 系統名稱：以深度學習建構無人機於自然環境偵查時所需的導航資訊
+  textEn: "Honorable Mention and Popularity Award, 2024 NUTN CSIE Capstone Competition, Intelligent Systems and Innovative Design Division. Project: Navigation information for drone reconnaissance in natural environments using deep learning"
+- category: 專題參賽
+  year: 2024
+  text: 佳作：2024國立臺南大學資訊工程系專題競賽 多媒體與雲端網路應用組 系統名稱：根據區域微氣候資料預測發電量
+  textEn: "Honorable Mention, 2024 NUTN CSIE Capstone Competition, Multimedia and Cloud Network Applications Division. Project: Power generation prediction based on regional microclimate data"
+- category: 專題參賽
+  year: 2024
+  text: 最佳專題：于京平同學參113年度加教育部先進資通安全實務人才培訓計畫 跨領資訊安全組
+  textEn: Best Project Award, student Jing-Ping Yu, 2024 Ministry of Education Advanced Information Security Practical Talent Training Program, interdisciplinary information security group
+- category: 專題參賽
+  year: 2024
+  text: 第二名、銀牌：（AI CUP 2024）教育部全國大專校院人工智慧競賽 系統名稱：AI驅動出行未來：跨相機多目標車輛追蹤競賽-參數組
+  textEn: "Second Place and Silver Medal, AI CUP 2024 Ministry of Education National Collegiate Artificial Intelligence Competition. Project: AI-driven mobility future: cross-camera multi-target vehicle tracking competition, parameter track"
+- category: 專業證照
+  year: 2024
+  text: 遙控無人機 普通操作證 --- Dec. 2024
+  textEn: Remote Pilot Certificate for Unmanned Aircraft - Dec. 2024
+- category: 專題參賽
+  year: 2023
+  text: 第一名：2023國立臺南大學資訊工程系專題競賽 多媒體與雲端網路應用組 系統名稱：AI人工智慧影片內容分析應用 - 以羽球競賽對戰策略分析為例
+  textEn: "First Place, 2023 NUTN CSIE Capstone Competition, Multimedia and Cloud Network Applications Division. Project: AI-based video content analysis applied to badminton match strategy analysis"
+- category: 專題參賽
+  year: 2023
+  text: 第二名：2023國立臺南大學資訊工程系專題競賽 智慧系統與創新設計組 系統名稱：以過採樣及資料擴增提升多模態病理嗓音分類之深度神經網路
+  textEn: "Second Place, 2023 NUTN CSIE Capstone Competition, Intelligent Systems and Innovative Design Division. Project: Deep neural networks for multimodal pathological voice classification improved with oversampling and data augmentation"
+- category: 專題參賽
+  year: 2022
+  text: 第一名：2022國立臺南大學資訊工程系專題競賽 多媒體與雲端網路應用組 系統名稱：利用局部二值模型及空間注意力進行街景圖像修復
+  textEn: "First Place, 2022 NUTN CSIE Capstone Competition, Multimedia and Cloud Network Applications Division. Project: Street-view image restoration using local binary models and spatial attention"
+- category: 專題參賽
+  year: 2022
+  text: 第三名：2022國立臺南大學資訊工程系專題競賽 智慧系統創新設計組 系統名稱：使用DCNv2加強Mask Transfiner以提升高精度及多物件影像辨識
+  textEn: "Third Place, 2022 NUTN CSIE Capstone Competition, Intelligent Systems Innovation Design Division. Project: Enhancing Mask Transfiner with DCNv2 for high-precision multi-object recognition"
+- category: 專題參賽
+  year: 2021
+  text: 特別獎：理工學院110學年度智慧專題成果競賽 系統名稱：使用增強反向投影金字塔網路去除圖像霧霾
+  textEn: "Special Award, 2021 College of Science and Engineering Smart Project Achievement Competition. Project: Image dehazing using an enhanced back-projection pyramid network"
+- category: 專題參賽
+  year: 2021
+  text: 第一名、業界潛力獎：2021國立臺南大學資訊工程系專題競賽 多媒體與雲端網路應用組 系統名稱：使用增強反向投影金字塔網路去除圖像霧霾
+  textEn: "First Place and Industry Potential Award, 2021 NUTN CSIE Capstone Competition, Multimedia and Cloud Network Applications Division. Project: Image dehazing using an enhanced back-projection pyramid network"
+- category: 專題參賽
+  year: 2021
+  text: 第三名、最佳人氣獎：2021國立臺南大學資訊工程系專題競賽 多媒體與雲端網路應用組 系統名稱：使用圖像隱式表示重建虛擬3D模型之家具預覽系統
+  textEn: "Third Place and Popularity Award, 2021 NUTN CSIE Capstone Competition, Multimedia and Cloud Network Applications Division. Project: Furniture preview system using implicit image representations to reconstruct virtual 3D models"
+- category: 專題參賽
+  year: 2021
+  text: 第一名：2021創新創意創業競賽，創新創意組 系統名稱：創作共享平台
+  textEn: "First Place, 2021 Innovation, Creativity, and Entrepreneurship Competition, Innovation and Creativity Division. Project: Creative sharing platform"
+- category: 論文發表
+  year: 2020
+  text: 優秀論文獎：TANET 2020台灣網際網路研討會 論文題目：植基於頻道狀態資訊與卷積神經之室內定位
+  textEn: "Outstanding Paper Award, TANET 2020 Taiwan Academic Network Conference. Paper title: Indoor localization based on channel state information and convolutional neural networks"
+- category: 專題參賽
+  year: 2020
+  text: 第二名：2020 國立臺南大學資訊工程系專題競賽 系統名稱：影像辨識演算法模型應用於愛文芒果五類不良品分析與預測
+  textEn: "Second Place, 2020 NUTN CSIE Capstone Competition. Project: Applying image recognition models to analysis and prediction of five categories of defective Irwin mangoes"
+- category: 專題參賽
+  year: 2020
+  text: 佳作、最佳人氣獎：2020 國立臺南大學資訊工程系專題競賽 系統名稱：基於圖像之語意導向與細節保留的2D虛擬試穿網路
+  textEn: "Honorable Mention and Popularity Award, 2020 NUTN CSIE Capstone Competition. Project: A semantics-guided and detail-preserving 2D virtual try-on network based on images"
+- category: 專題參賽
+  year: 2018
+  text: 第一名：「2018 南區大專資訊專題研討會暨專題競賽」網路與雲端應用組 系統名稱：多攝影機下透過動作捕捉與姿態辨識認證人物身分
+- category: 研究成果與計畫執行
+  year: 2017
+  text: 榮獲 科技部「106年度補助大專校院獎勵特殊優秀人才措施方案」
+- category: 專題參賽
+  year: 2017
+  text: "第二名：2017 國立臺南大學資訊工程系專題競賽 系統名稱：CLASSIFACE: 人臉辨識"
+- category: 專題參賽
+  year: 2017
+  text: 第一名：2017 國立臺南大學資訊工程系專題競賽 系統名稱：多攝影機下透過動作捕捉與姿態辨識認證人物身分
+- category: 研究成果與計畫執行
+  year: 2016
+  text: 榮獲 科技部「105年度補助大專校院獎勵特殊優秀人才措施方案」
+- category: 專題參賽
+  year: 2016
+  text: 績優團隊：2016年第50次ITSA線上程式設計大賽
+- category: 專題參賽
+  year: 2016
+  text: 績優團隊：2016年第49次ITSA線上程式設計大賽
+- category: 專題參賽
+  year: 2016
+  text: 績優團隊：2016年第47次ITSA線上程式設計大賽
+- category: 專題參賽
+  year: 2016
+  text: 績優團隊：2016年第46次ITSA線上程式設計大賽
+- category: 專題參賽
+  year: 2016
+  text: 績優團隊：2016年第44次ITSA線上程式設計大賽
+- category: 研究成果與計畫執行
+  year: 2015
+  text: 榮獲 科技部「104年度補助大專校院獎勵特殊優秀人才措施方案」
+- category: 專題參賽
+  year: 2015
+  text: "企業特別獎：2015軟體創作達人暑期成長營(TSOC 2015) 【FireChat】，指導廠商: ASUS"
+- category: 專題參賽
+  year: 2015
+  text: 績優團隊：2015年第42次ITSA線上程式設計大賽
+- category: 專題參賽
+  year: 2015
+  text: 績優團隊：2015年第41次ITSA線上程式設計大賽
+- category: 專題參賽
+  year: 2015
+  text: 績優團隊：2015年第40次ITSA線上程式設計大賽
+- category: 專題參賽
+  year: 2015
+  text: 績優團隊：2015年第39次ITSA線上程式設計大賽
+- category: 專題參賽
+  year: 2015
+  text: 績優團隊：2015年第四屆全國大專ITSA盃程式設計桂冠挑戰大賽
+- category: 專題參賽
+  year: 2015
+  text: 金牌：2015全國大專校院軟體創作競賽，社群運算與巨量資料應用組 【動態共乘媒合與社群管理系統】
+- category: 研究成果與計畫執行
+  year: 2014
+  text: 榮獲 科技部「103年度補助大專校院獎勵特殊優秀人才措施方案」
+- category: 專題參賽
+  year: 2014
+  text: "企業特別獎：2014軟體創作達人暑期成長營(TSOC 2014) 【裝置自動化狀態調整】，指導廠商: 鴻海機電"
+- category: 專題參賽
+  year: 2014
+  text: "佳作團隊獎：2014軟體創作達人暑期成長營(TSOC 2014) 【計程車叫車與共乘行動軟體】，指導廠商: IBM"
+- category: 專題參賽
+  year: 2014
+  text: 績優團隊：2014年第三屆全國大專ITSA盃程式設計桂冠挑戰大賽
+- category: 球類競賽
+  year: 2014
+  text: 2014年久展羽球隊會內團體賽 冠軍
+- category: 球類競賽
+  year: 2014
+  text: 2014年台南縣教育會盃羽球錦標賽 冠軍
+- category: 球類競賽
+  year: 2014
+  text: 2014鐘錶眼鏡羽球俱樂部夫妻混雙 冠軍
+- category: 專題參賽
+  year: 2013
+  text: 績優團隊：2013年第26次ITSA線上程式設計大賽
+- category: 專題參賽
+  year: 2013
+  text: 績優團隊：2013年第25次ITSA線上程式設計大賽
+- category: 專題參賽
+  year: 2013
+  text: "優秀團隊獎：2013軟體創作達人暑期成長營 (TSOC 2013) 【簡易人流計數器】，指導廠商: 三商電腦 (Java, OpenCV)"
+- category: 專題參賽
+  year: 2013
+  text: 企業特別獎：2013軟體創作達人暑期成長營(TSOC 2013)
+- category: 球類競賽
+  year: 2013
+  text: 2013西拉雅會長盃羽球團體賽 冠軍
+- category: 球類競賽
+  year: 2013
+  text: 2013第25屆木鐸盃運動競賽教職員羽球團體組 第二名
+- category: 專業證照
+  year: 2013
+  text: 台灣羽球協會C級教練 --- Dec. 2013
+- category: 專題參賽
+  year: 2012
+  text: 第三名：國立臺南大學資訊工程學系2012年畢業專題競賽 利用Wi-Fi熱點自動偵測個人感興趣地點之應用 (Android)
+- category: 專題參賽
+  year: 2012
+  text: "佳作: 101年度第二次全國大專ITSA盃程式設計桂冠挑戰大賽 闖關組"
+- category: 專題參賽
+  year: 2012
+  text: 績優團隊：2010、2011、2012年ITSA線上程式設計大賽
+- category: 球類競賽
+  year: 2012
+  text: 2012第24屆木鐸盃運動競賽教職員羽球團體組 第三名
+- category: 榮譽
+  year: 2012
+  text: Listed on the Who's Who in Science and Engineering, 2011-2012 (11th Edition)
+- category: 專題參賽
+  year: 2011
+  text: 第一名：國立臺南大學資訊工程學系2011年畢業專題競賽 Shikar：Android 多功能三對三鬥牛籃球計分系統 (Android, PhP)
+- category: 球類競賽
+  year: 2011
+  text: 2011第23屆木鐸盃運動競賽教職員羽球團體組 第二名
+- category: 專題參賽
+  year: 2010
+  text: 佳作：99學年大學院校網路通訊軟體與創意應用競賽 整合型羽球電子計分板 暨 即時賽制排程派送系統(C#.net, PhP)
+- category: 球類競賽
+  year: 2010
+  text: 2010第22屆木鐸盃運動競賽教職員羽球團體組 第四名
+- category: 專題參賽
+  year: 2009
+  text: 佳作：2009第四屆南區大專院校程式設計競賽 【大一組】 指導教授
+- category: 專題參賽
+  year: 2009
+  text: "入圍獎：2009全國計算機會議(NCS 2009) \"最佳學生論文\"獎"
+- category: 球類競賽
+  year: 2009
+  text: 2009南大教職員羽球賽雙打 第二名
+- category: 球類競賽
+  year: 2009
+  text: 2009第21屆木鐸盃運動競賽教職員羽球團體組 第二名
+- category: 專業證照
+  year: 2009
+  text: 台灣羽球協會C級裁判 --- Mar. 2009
+- category: 專業證照
+  year: 2009
+  text: CISCO CERTIFIED ACADEMY INSTRUCTOR (CCAI) - August, 2009
+- category: 專業證照
+  year: 2009
+  text: CISCO CERTIFIED NETWORK ADMINISTRATOR (CCNA) - August, 2009
+- category: 球類競賽
+  year: 2008
+  text: 2008年南區大專盃教職員羽球賽團體組 第二名
+- category: 專題參賽
+  year: 2007
+  text: "入圍獎：第三屆全國技專校院軟體創思競賽，2007/10 NTV - 支援預約錄製功能的網路電視 (J2ME, J2EE, JMF)"
+- category: 專題參賽
+  year: 2006
+  text: "入圍獎：第二屆全國技專校院軟體創思競賽，2006/10 開放式行動百科全書 - 台灣版 (J2ME, J2EE, GPS API)"
+- category: 服務
+  year: 2006
+  text: 績優導師 -- 95年2月
+- category: 專題參賽
+  year: 2005
+  text: "黃金企鵝獎 - 研發創新獎：2005 Linux 黃金企鵝獎 專題題目：支援跨院案例交換之 MPEG-7 卵巢腫瘤超音波影像醫療系統
+    (SOTS-CE)(J2EE, Java2D, Web Services, MySQL)"
+- category: 專題參賽
+  year: 2005
+  text: 佳作：第十屆全國大專院校資訊服務創新競賽暨資訊管理專題競賽, 94年12月 專題題目：幻之學園：多人連線JAVA手機校園線上遊戲(J2ME,
+    GAMEAPI, MMAPI, Java2D)
+- category: 服務
+  year: 2005
+  text: 績優導師 -- 94年9月
+- category: 專業證照
+  year: 2005
+  text: SUN CERTIFIED PROGRAMMER for the Java 2 Platform 1.4 (SAI) – April 12, 2005
+- category: 專題參賽
+  year: 2004
+  text: 佳作：第九屆全國大專院校資訊服務創新競賽暨資訊管理專題競賽, 93年12月 專題題目：在行動通訊網路上實作多人連線 JAVA 手機遊戲 (J2ME,
+    GAMEAPI, MMAPI, Java2D)
+- category: 教學
+  year: 2004
+  text: 93學年南台科大--校級「教學品質優良教師」
+- category: 專題參賽
+  year: 2003
+  text: "第三名: 南台科大第六屆專題製作競賽, 92年12月 專題題目：聖章之狩月篇--卡片式即時戰鬥RPG手機遊戲之實作 (J2ME, MMAPI,
+    Java2D)"
+- category: 專題參賽
+  year: 2003
+  text: "第一名: 【2003極限創意】全國大專院校創意競賽非設計類組, 92年8月 專題題目：多媒體無線通訊平台之設計與實作：以無線上網購票為例
+    (J2ME, J2EE, MMAPI)"
+- category: 服務
+  year: 2002
+  text: 績優導師 -- 91年9月
+- category: 服務
+  year: 2002
+  text: 績優導師 -- 91年2月
+- category: 專題參賽
+  year: 2001
+  text: "優等: 南台科大第四屆專題製作競賽, 90年12月 專題題目：動態3D彎管繪圖技術 (C++, OpenGL))"
+- category: 球類競賽
+  year: 1996
+  text: 1996年 University of Central Florida, 男子羽球單打 冠軍
+- category: 球類競賽
+  year: 1993
+  text: 1993年 Florida Institute of Technology, 男子羽球單打 冠軍

@@ -1,0 +1,54 @@
+---
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { getProfile, siteMeta } from '../lib/data';
+import { withBasePath } from '../lib/site';
+import '../styles/global.css';
+
+const {
+  title,
+  description = siteMeta.description,
+  currentPath = '/',
+  structuredData,
+} = Astro.props;
+
+const profile = getProfile();
+const pageTitle = title ? `${title} | ${siteMeta.titleSuffix}` : siteMeta.siteName;
+const canonicalPath = withBasePath(currentPath);
+const canonical = Astro.site ? new URL(canonicalPath, Astro.site).toString() : undefined;
+const ogImage = Astro.site ? new URL(withBasePath(profile.photo), Astro.site).toString() : withBasePath(profile.photo);
+---
+
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={description} />
+    <meta name="theme-color" content={siteMeta.accent} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={siteMeta.siteName} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    {canonical && <meta property="og:url" content={canonical} />}
+    <meta property="og:image" content={ogImage} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="robots" content="index,follow" />
+    {canonical && <link rel="canonical" href={canonical} />}
+    <link rel="icon" type="image/svg+xml" href={withBasePath('/favicon.svg')} />
+    <title>{pageTitle}</title>
+    {
+      structuredData && (
+        <script type="application/ld+json" set:html={JSON.stringify(structuredData)} />
+      )
+    }
+  </head>
+  <body class:list={[{ 'is-home': currentPath === '/' }]}>
+    <Header currentPath={currentPath} />
+    <main>
+      <slot />
+    </main>
+    <Footer lastUpdated={profile.lastUpdated} />
+  </body>
+</html>

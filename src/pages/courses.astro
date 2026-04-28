@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CourseCard from '../components/CourseCard.astro';
+import SectionTitle from '../components/SectionTitle.astro';
+import { getCourses, groupBy, mergePreferredOrder } from '../lib/data';
+
+const courses = getCourses();
+const groups = groupBy(courses, (item) => item.level);
+const levels = mergePreferredOrder(['研究所', '大學部'], Object.keys(groups));
+---
+
+<BaseLayout title="課程" currentPath="/courses">
+  <section class="section page-intro-section">
+    <div class="container">
+      <SectionTitle title="教學課程" />
+      {
+        levels.map((level) => (
+          <section class="type-group">
+            <SectionTitle title={level} />
+            <div class="card-grid">
+              {(groups[level] ?? []).map((course) => <CourseCard course={course} />)}
+            </div>
+          </section>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

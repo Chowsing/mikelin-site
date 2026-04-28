@@ -1,11 +1,148 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CourseCard from '../components/CourseCard.astro';
+import PublicationItem from '../components/PublicationItem.astro';
+import SectionTitle from '../components/SectionTitle.astro';
+import {
+  getAwards,
+  getCourses,
+  getProfile,
+  getPublications,
+  getResearchProjects,
+  getServices,
+} from '../lib/data';
+import { withBasePath } from '../lib/site';
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+const profile = getProfile();
+const researchProjects = getResearchProjects().slice(0, 4);
+const publications = getPublications().slice(0, 6);
+const courses = getCourses().slice(0, 4);
+const services = getServices().slice(0, 4);
+const awards = getAwards().slice(0, 4);
+const profileLinks = profile.links ?? [];
+const heroFocusItems = profile.researchSummary.slice(0, 4);
+
+const personSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: profile.nameZh,
+  alternateName: profile.nameEn,
+  jobTitle: profile.title,
+  worksFor: {
+    '@type': 'CollegeOrUniversity',
+    name: '國立臺南大學',
+  },
+  alumniOf: profile.education,
+  image: Astro.site ? new URL(withBasePath(profile.photo), Astro.site).toString() : withBasePath(profile.photo),
+  url: Astro.site ? new URL(withBasePath('/'), Astro.site).toString() : undefined,
+};
 ---
 
-<Layout>
-	<Welcome />
-</Layout>
+<BaseLayout title="首頁" currentPath="/" structuredData={personSchema}>
+  <section class="hero-shell">
+    <div class="container hero">
+      <section class="hero-copy panel">
+        <div class="hero-intro">
+          <h1>{profile.nameZh}</h1>
+          <p class="kicker">{profile.nameEn}</p>
+          <p class="hero-title">{profile.title}</p>
+          <p class="hero-education">{profile.education}</p>
+          <div class="hero-actions">
+            <a class="button" href={withBasePath('/publications')}>學術成果</a>
+            <a class="button-secondary" href={withBasePath('/research')}>研究計畫</a>
+          </div>
+        </div>
+
+        <div class="hero-support-grid">
+          <div class="hero-focus hero-focus-panel">
+            <strong class="hero-subheading">研究重點</strong>
+            <div class="hero-focus-list">
+              {heroFocusItems.map((item) => <span class="hero-focus-item">{item}</span>)}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <aside class="hero-card hero-profile-card">
+        <img class="profile-photo" src={withBasePath(profile.photo)} alt={`${profile.nameZh} 個人照片`} />
+        <div class="hero-meta-section">
+          <strong class="hero-subheading">聯絡資訊</strong>
+          <div class="meta-grid">
+            <div class="meta-item">
+              <strong>研究室</strong>
+              <span>{profile.office}</span>
+            </div>
+            <div class="meta-item">
+              <strong>分機</strong>
+              <span>{profile.extension}</span>
+            </div>
+            <div class="meta-item">
+              <strong>Email</strong>
+              <img src={withBasePath(profile.emailImage)} alt="電子郵件聯絡資訊" />
+            </div>
+          </div>
+          {
+            profileLinks.length > 0 && (
+              <div class="profile-link-list">
+                {profileLinks.map((link) => (
+                  <a class="text-link" href={link.url} target="_blank" rel="noreferrer">{link.label}</a>
+                ))}
+              </div>
+            )
+          }
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section feature-band">
+    <div class="container summary-grid">
+      <article class="content-card">
+        <SectionTitle title="研究計畫" />
+        <ul class="plain-list">
+          {
+            researchProjects.map((project) => (
+              <li>
+                <strong>{project.year}</strong> {project.topic ?? project.title}
+              </li>
+            ))
+          }
+        </ul>
+      </article>
+
+      <article class="content-card">
+        <SectionTitle title="論文成果" />
+        <ol class="publication-list compact-publication-list">
+          {publications.map((publication) => <PublicationItem publication={publication} />)}
+        </ol>
+      </article>
+    </div>
+  </section>
+
+  <section class="section section-alt">
+    <div class="container">
+      <SectionTitle title="授課課程" />
+      <div class="card-grid">
+        {courses.map((course) => <CourseCard course={course} />)}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container summary-grid">
+      <article class="content-card">
+        <SectionTitle title="服務紀錄" />
+        <ul class="plain-list">
+          {services.map((item) => <li>{item.fullText}</li>)}
+        </ul>
+      </article>
+
+      <article class="content-card">
+        <SectionTitle title="獲獎榮譽" />
+        <ul class="plain-list">
+          {awards.map((item) => <li>{item.text}</li>)}
+        </ul>
+      </article>
+    </div>
+  </section>
+</BaseLayout>

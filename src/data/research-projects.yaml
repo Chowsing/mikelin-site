@@ -1,0 +1,323 @@
+- category: 教育部研究計畫
+  title: 國立臺南大學114-116年高等教育深耕計畫-健康校園、適應體育
+  titleEn: National University of Tainan Higher Education Sprout Project 2025-2027 - Healthy Campus and Adapted Physical Education
+  year: 2025
+  period: 114/08-117/07
+  sponsor: 教育部
+  sponsorEn: Ministry of Education
+  role: 團隊教授
+- category: 國科會研究計畫
+  title: 114 專題研究計畫（一般研究計畫）
+  titleEn: 2025 NSTC Research Project (General Research Project)
+  year: 2025
+  topic: 整合視覺語言模型之跨相機多模態車輛追蹤
+  topicEn: Cross-camera multimodal vehicle tracking with integrated vision-language models
+  projectNumber: 114-2221-E-024-003-
+  sponsor: 國科會
+  sponsorEn: National Science and Technology Council
+  role: 計畫主持人
+- category: 國科會研究計畫
+  title: 113 專題研究計畫（一般研究計畫）
+  titleEn: 2024 NSTC Research Project (General Research Project)
+  year: 2024
+  topic: 二階段多假設表徵學習結合動作提示提升3D人體姿勢估計的準確度
+  topicEn: Improving 3D human pose estimation accuracy with two-stage multi-hypothesis representation learning and motion prompts
+  projectNumber: 113-2221-E-024-006-
+  sponsor: 國科會
+  sponsorEn: National Science and Technology Council
+  role: 計畫主持人
+- category: 教育部研究計畫
+  title: 國立臺南大學112-113年高等教育深耕計畫-健康校園、適應體育
+  titleEn: National University of Tainan Higher Education Sprout Project 2023-2024 - Healthy Campus and Adapted Physical Education
+  year: 2023
+  period: 112/08-117/07
+  sponsor: 教育部
+  sponsorEn: Ministry of Education
+  role: 團隊教授
+- category: 國科會研究計畫
+  title: 112 專題研究計畫（一般研究計畫）
+  titleEn: 2023 NSTC Research Project (General Research Project)
+  year: 2023
+  topic: 結合異常偵測提高少樣本物件偵測的泛化性和準確度
+  topicEn: Improving the generalization and accuracy of few-shot object detection with anomaly detection
+  projectNumber: 112-2221-E-024-009-
+  sponsor: 國科會
+  sponsorEn: National Science and Technology Council
+  role: 計畫主持人
+- category: 大專生科技研究計畫
+  title: 基於中文圖像辨識資料集之網頁alt屬性生成
+  titleEn: Generating web alt attributes from a Chinese image recognition dataset
+  year: 2023
+  period: 2023/7 ~ 2024/2
+  projectNumber: NSTC 112-2813-C-024-007-E
+- category: 國科會研究計畫
+  title: 111 專題研究計畫（一般研究計畫）
+  titleEn: 2022 NSTC Research Project (General Research Project)
+  year: 2022
+  topic: 透過原型學習結合對抗性擾動提高道路異常檢測準確度
+  topicEn: Improving road anomaly detection accuracy through prototype learning with adversarial perturbations
+  projectNumber: 111-2221-E-024 -014 -
+  sponsor: 國科會
+  sponsorEn: National Science and Technology Council
+  role: 計畫主持人
+- category: 產學合作計畫
+  title: 體育文物保存系統
+  titleEn: Sports artifact preservation system
+  year: 2022
+  partner: 國立臺南大學 體育文物數位保存中心
+  partnerEn: Digital Preservation Center for Sports Artifacts, National University of Tainan
+  period: 2022/1 ~ 2022/6
+- category: 產學合作計畫
+  title: 即時心率監測系統
+  titleEn: Real-time heart rate monitoring system
+  year: 2021
+  partner: 成億健康事業有限公司
+  partnerEn: Cheng Yi Health Enterprise Co., Ltd.
+  period: 2021/7 ~ 2022/1
+- category: 國科會研究計畫
+  title: 109 專題研究計畫（一般研究計畫）
+  titleEn: 2020 MOST Research Project (General Research Project)
+  year: 2020
+  topic: 利用多尺度感興趣區域之細微關係提供圖片字幕
+  topicEn: Image captioning with fine-grained relationships among multiscale regions of interest
+  projectNumber: 109-2221-E-024 -011 -
+  sponsor: 國科會
+  sponsorEn: Ministry of Science and Technology
+  role: 計畫主持人
+- category: 產學合作計畫
+  title: 創作共享平台
+  year: 2020
+  partner: Oorter歐弍科技
+  period: 2020/4~2020/6/1
+- category: 國科會研究計畫
+  title: 108 專題研究計畫（一般研究計畫）
+  year: 2019
+  topic: "DAC-GAN: 應用生成對抗網路進行圖片中不同外觀物體轉換"
+  projectNumber: 108-2221-E-024 -010 -
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 國科會研究計畫
+  title: 107 專題研究計畫（一般研究計畫）
+  year: 2018
+  topic: 以使用者感興趣區域為導向的區塊式360度SHVC影片串流
+  projectNumber: 107-2221-E-024 -002 -
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 國科會研究計畫
+  title: 106 專題研究計畫（一般研究計畫）
+  year: 2017
+  topic: 利用無線電波訊號紋與多攝影機網路提升室內定位與追蹤準確性
+  projectNumber: 106-2221-E-024 -003
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 大專生科技研究計畫
+  title: 無線訊號與多攝影機追蹤定位搭配深度學習辨識已認證人物
+  year: 2017
+  period: 2017/7 ~ 2018/2
+  projectNumber: MOST 106-2813-C-024-024-E
+- category: 產學合作計畫
+  title: 健身房綜合管理系統
+  year: 2017
+  partner: 成億健康事業有限公司
+  period: 2017/4 ~ 2024/5
+- category: 教育部研究計畫
+  title: 105資通訊軟體創新人才推升推廣計畫
+  year: 2016
+  period: 105/02-106/01
+  sponsor: 教育部
+  role: 共同主持人
+- category: 國科會研究計畫
+  title: 105 專題研究計畫（一般研究計畫）
+  year: 2016
+  topic: 利用動態頻寬調整在BitTorrent網路上提供直播串流即時重播
+  projectNumber: 105-2221-E-024 -007 -
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 教育部研究計畫
+  title: 104資通訊軟體創新人才推升推廣計畫
+  year: 2015
+  period: 104/02-105/01
+  sponsor: 教育部
+  role: 共同主持人
+- category: 國科會研究計畫
+  title: 利用CRF預測結構/非結構樓層房間Wi-Fi訊號紋
+  year: 2015
+  period: 104/08/01 ~ 105/07/31
+  projectNumber: MOST 104-2221-E-024-002-
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 大專生科技研究計畫
+  title: 植基於GPS座標及定界框之快速路徑比對
+  year: 2015
+  period: 104/7 ~ 105/2
+  projectNumber: MOST 104-2815-C-024-008-E
+- category: 教育部研究計畫
+  title: 103年度軟體人才培育推廣計畫
+  year: 2014
+  period: 103/02-104/01
+  sponsor: 教育部
+  role: 共同主持人
+- category: 大專生科技研究計畫
+  title: 在路網上處理行動物件方向性連續查詢之效能研究
+  year: 2014
+  period: 103/7 ~ 104/2
+  projectNumber: MOST 103-2815-C-024-025-E
+- category: 教育部研究計畫
+  title: 102年度網路通訊重點領域學程推廣計畫(網路理論與技術學程（NT）
+  year: 2013
+  period: 102/02-103/01
+  sponsor: 教育部
+  role: 共同主持人
+- category: 教育部研究計畫
+  title: 102年度資訊軟體人才培育推廣計畫
+  year: 2013
+  period: 102/02-103/01
+  sponsor: 教育部
+  role: 共同主持人
+- category: 國科會研究計畫
+  title: 使用適應性稀有度及緊急性集合來改善可調式影片BT串流效能
+  year: 2013
+  period: 102/08/01 ~ 103/07/31
+  projectNumber: MOST 102-2221-E-024-008-
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 教育部研究計畫
+  title: 101年度資訊軟體人才培育推廣計畫
+  year: 2012
+  period: 101/02-102/01
+  sponsor: 教育部
+  role: 參與教師
+- category: 國科會研究計畫
+  title: 以動態補零提升多重描述編碼之前後置處理與錯誤隱藏效能
+  year: 2012
+  period: 101/08/01 ~ 102/07/31
+  projectNumber: NSC 101-2221-E-024-023-
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 教育部研究計畫
+  title: 100-101年度網路通訊重點領域學程推廣計畫(網路理論與技術學程（NT）
+  year: 2011
+  period: 100/09-102/01
+  sponsor: 教育部
+  role: 共同主持人
+- category: 國科會研究計畫
+  title: 利用動態緩衝提升同儕網路可調式媒體串流之可得性及堅韌性
+  year: 2011
+  period: 100/08/01 ~ 101/07/31
+  projectNumber: NSC 100-2221-E-024-006-
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 大專生科技研究計畫
+  title: 動態緩衝機制服務可得性之分析
+  year: 2011
+  period: 100/7 ~ 101/2
+  projectNumber: NSC 100-2815-C-024-008-E
+- category: 產學合作計畫
+  title: 100學年學界協助中小企業科技關懷計畫：可程式控制器及人機介面應用系統上視覺定位技術客製模組化之診斷
+  year: 2011
+  partner: 羣控自動化科技有限公司
+  period: 2011/7~2011/12
+- category: 教育部研究計畫
+  title: 99-100年度資訊軟體人才培育推廣計畫
+  year: 2010
+  period: 99/10-101/01
+  sponsor: 教育部
+  role: 參與教師
+- category: 國科會研究計畫
+  title: 運用多重編碼描述的協力式快取提升CDN-P2P網路上影音串流之延展性及 堅韌度
+  year: 2008
+  period: 97/08/01 ~ 100/07/31
+  projectNumber: NSC 97-2221-E-024 -014 -MY3
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 產學合作計畫
+  title: 春園高爾夫休閒農場網站 合作廠商 ：春園休閒農場
+  year: 2007
+  period: 2007/11 ~ 2012/10
+- category: 產學合作計畫
+  title: 電話語音教學及評分系統 合作廠商 ：林肯美語教育機構
+  year: 2007
+  period: 2007/07 ~ 2008/06
+- category: 國科會研究計畫
+  title: 運用多重描述編碼解決同儕式媒體串流之非對稱性、異質性及變動性
+  year: 2006
+  period: 95/08/01 ~ 97/07/31
+  projectNumber: 95-2221-E-218-015-MY2
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 教育部研究計畫
+  title: 從提升專題製作品質到企業接軌之最後一哩
+  year: 2005
+  period: 94/07/01 ~ 94//12/31
+  sponsor: 教育部
+  role: 協同主持人
+- category: 國科會研究計畫
+  title: 藉由階層式差異化服務品質提供P2P媒體串流誘因之研究
+  year: 2005
+  period: 94/08/01 ~ 95/07/31
+  projectNumber: NSC 94-2218-E-218-015
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 國科會研究計畫
+  title: 實作多媒體無線網路之頻寬配置實驗平台
+  year: 2004
+  period: 93/11/01 ~ 94/10/31
+  projectNumber: NSC 93-2218-E-218-011
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 國科會研究計畫
+  title: 在對等式網路上利用多頻道群播技術傳送預約影片之排程研究
+  year: 2004
+  period: 93/08/01 ~ 94/07/31
+  projectNumber: NSC 93-2218-E-218-028
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 產學合作計畫
+  title: 成興鑄造企業網站
+  year: 2004
+  partner: 成興鑄造股份有限公司
+  period: 2004/10 ～ 2006/9
+- category: 產學合作計畫
+  title: 客製化鑄造業管理系統
+  year: 2004
+  partner: 成興鑄造股份有限公司
+  period: 2004/3 ～ 2006/12
+- category: 國科會研究計畫
+  title: 支援跨院案例交換之MPEG-7卵巢腫瘤醫療影像系統
+  year: 2003
+  period: 92/12/01 ~ 93/10/31
+  projectNumber: NSC 92-2218-E-218-021
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 國科會研究計畫
+  title: 多頻道群播在預約影片傳送之排程研究
+  year: 2003
+  period: 92/08/01 ~ 93/07/31
+  projectNumber: NSC 92-2218-E-218-00
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 國科會研究計畫
+  title: 基於MPEG-7之卵巢腫瘤超音波影像資料庫管理系統
+  year: 2002
+  period: 91/08/01 ~ 92/07/31
+  projectNumber: NSC 91-2213-E-218 -017
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 國科會研究計畫
+  title: 提供叢集式變動位元速率多媒體系統互動式操作之研究
+  year: 2001
+  period: 90/08/01 ~ 91/07/31
+  projectNumber: NSC 90-2213-E-218-001
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 國科會研究計畫
+  title: 在叢集式視訊隨選系統上傳輸變動位元速率視訊資料之研究
+  year: 2001
+  period: 90/02/01 ~ 90/07/31
+  projectNumber: NSC 90-2218-E-218-001
+  sponsor: 國科會
+  role: 計畫主持人
+- category: 產學合作計畫
+  title: 動態3D彎管繪圖技術 喬陞機器股份有限公司
+  year: 2001
+  period: 2001/01 ~ 2001/12

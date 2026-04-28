@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SectionTitle from '../components/SectionTitle.astro';
+import { getAwards, groupBy, mergePreferredOrder } from '../lib/data';
+
+const awards = getAwards();
+const groups = groupBy(awards, (item) => item.category);
+const categoryOrder = mergePreferredOrder(
+  ['研究成果與計畫執行', '論文發表', '專題參賽', '服務', '球類競賽', '教學', '專業證照', '榮譽'],
+  Object.keys(groups),
+);
+---
+
+<BaseLayout title="獲獎" currentPath="/awards">
+  <section class="section page-intro-section">
+    <div class="container">
+      <SectionTitle title="獲獎與榮譽" />
+      {
+        categoryOrder.map((category) => (
+          <section class="type-group">
+            <SectionTitle title={category} />
+            <div class="award-grid">
+              {(groups[category] ?? []).map((award) => (
+                <article class="award-card">
+                  <p class="kicker">{award.year ?? '未註明年份'}</p>
+                  <p>{award.text}</p>
+                </article>
+              ))}
+            </div>
+          </section>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

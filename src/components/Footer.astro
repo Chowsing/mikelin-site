@@ -1,0 +1,25 @@
+---
+import { getProfile, siteMeta } from '../lib/data';
+
+const { lastUpdated } = Astro.props;
+const profile = getProfile();
+---
+
+<footer class="site-footer">
+  <div class="container footer-inner footer-grid">
+    <div class="footer-brand-block">
+      <strong>林朝興教授個人網站</strong>
+      <p>{profile.title}</p>
+    </div>
+
+    <div class="footer-info-block">
+      <p>{profile.office}</p>
+      <p>{profile.extension}</p>
+    </div>
+
+    <div class="footer-info-block">
+      <p><a class="text-link" href={siteMeta.labUrl} target="_blank" rel="noreferrer">Data Systems Laboratory</a></p>
+      <p>更新日期：{lastUpdated}</p>
+    </div>
+  </div>
+</footer>

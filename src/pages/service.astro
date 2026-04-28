@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SectionTitle from '../components/SectionTitle.astro';
+import Timeline from '../components/Timeline.astro';
+import { getServices, groupBy, mergePreferredOrder } from '../lib/data';
+
+const services = getServices();
+const groups = groupBy(services, (item) => item.category);
+const categories = mergePreferredOrder(['學術服務', '行政服務'], Object.keys(groups));
+---
+
+<BaseLayout title="服務" currentPath="/service">
+  <section class="section page-intro-section">
+    <div class="container">
+      <SectionTitle title="學術與行政服務" />
+      {
+        categories.map((category) => (
+          <section class="type-group">
+            <div class="content-card">
+              <h3>{category}</h3>
+              <Timeline items={groups[category] ?? []} />
+            </div>
+          </section>
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>

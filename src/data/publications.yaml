@@ -1,0 +1,612 @@
+- type: journal
+  year: 2023
+  citation: Yu-Sian Lin and C.-S. Lin*, “Enhancing the accuracy of prototype
+    learning in road anomaly segmentation by adding adversarial perturbations to
+    data, ” Multimedia Tools and Applications, Nov. 2023. (SCI)
+- type: journal
+  year: 2023
+  citation: 林亮宇，林朝興* “ 利用多尺度感興趣區域之細微關係提供圖片字幕“, 理工研究國際期刊(IJSE), vol. 13, no. 2, 2023.
+- type: journal
+  year: 2023
+  citation: 劉佾雲，許雅婷，林朝興* “利用局部二值模型及空間注意力進行街景圖像修復“, 理工研究國際期刊(IJSE), vol. 13, no. 2, 2023.
+- type: journal
+  year: 2022
+  citation: Hong-Yun Chen and C.-S. Lin*, “Tiled Streaming for Layered 3D Virtual
+    Reality Videos with Viewport Prediction, ” Multimedia Tools and
+    Applications, vol. 81, pp. 13867-13888, Feb. 2022. (SCI)
+- type: journal
+  year: 2022
+  citation: 吳威廷，林朝興* “ 影像辨識神經網路應用於愛文芒果不良品分析與預測“, 理工研究國際期刊(IJSE), vol. 12, no. 2,
+    pp. 90-108, 2022.
+- type: conference
+  year: 2022
+  citation: Yu-Sian Lin and Chow-Sing Lin “Enhancing the Accuracy of Prototype
+    Learning in Road Anomaly Segmentation by Adding Adversarial Perturbations to
+    Data, ” 2022 5th Artificial Intelligence and Cloud Computing Conference
+    (AICCC 2022), Osaka, Japan, Dec. 17-19, 2022.
+- type: conference
+  year: 2022
+  citation: Kuang Tseng and Chow-Sing Lin “Enhancing Natural Language Inference of
+    Cross-lingual N-shot Transfer with Multilingual Data, ” The 8th IEEE
+    International Conference on Applied System Innovation 2022 (IEEE ICASI
+    2022), Nantou, Taiwan, April, 2022.
+- type: journal
+  year: 2021
+  citation: 王新慧, 郭曼玲, 林朝興* “基於圖像之語意導向與細節保留的2D虛擬試穿網路, ” 理工研究國際期刊(IJSE), vol. 11,
+    no. 2, pp. 41-58, October, 2021.
+- type: journal
+  year: 2019
+  citation: Shih-Hao Huang and C.-S. Lin* “Rapid Route Comparison Based on GPS
+    Coordinates and Bounding Boxes, ” Journal of Traffic and Logistics
+    Engineering, vol. 7, no. 1, pp. 5-9, June 2019.
+- type: journal
+  year: 2019
+  citation: C.-S. Lin* and Ci-Ruei Jiang “Processing Directional Continuous
+    Queries for Mobile Objects on Road Networks, ” Journal of Internet
+    Technology, vol. 20, no 1, pp. 97-109, Jan. 2019. (SCI)
+- type: journal
+  year: 2019
+  citation: 林亮宇、林朝興*、鄭宇翔 “基於深度神經網路與攝影機之室內定位”, 理工研究國際期刊(IJSE), vol. 9, no. 1, pp.
+    23-36, 2019.
+- type: conference
+  year: 2019
+  citation: Chow-Sing Lin and Hsiang-Yun Chen “Dynamic Bandwidth Adjustment for
+    Instant Replay of Live Streams on BitTorrent Networks, 2019 4th
+    International Conference on Cloud Computing and Internet of Things (CCIOT
+    2019), pp. 120-125, Tokyo, Japan, Sep 20-22. 2019.
+- type: journal
+  year: 2018
+  citation: "王義凱、鄭宇翔、林朝興* “Classiface: 基於多工卷積神經網路之即時人臉辨識”, 理工研究國際期刊(IJSE), vol. 8,
+    no. 1, pp. 15-28, 2018."
+- type: conference
+  year: 2018
+  citation: Shih-Hao Huang and Chow-Sing Lin “Rapid Route Matching Based on GPS
+    Coordinates and Bounding Boxes, ” 2018 2nd International Conference on
+    Automation, Control and Robots (ICACR 2018), Bangkok, Thailand, Oct. 12-14,
+    2018
+- type: conference
+  year: 2017
+  citation: Chich-Wei Su and Chow-Sing Lin, “Expediting Determination of Coding
+    Unit Partition Based on Quantization Parameter and Frame Complexity, ”
+    ICVISP 2017, Sep. 22-24, 2017, Osaka, Japan.
+- type: conference
+  year: 2017
+  citation: "王義凱、鄭宇翔、林朝興，”Classiface: 卷積神經網路即時⼈臉辨識”，TANET2017，10月, 2017，台中。"
+- type: conference
+  year: 2017
+  citation: 林亮宇、鄭宇翔、林朝興“基於攝影機影像之室內定位”，TANET2017，10月, 2017，台中。
+- type: journal
+  year: 2016
+  citation: Rong-Hua Chang, Chieh-Wei Su, and C.-S. Lin* “Estimating
+    Rate-Distortion for Multiple Description Coding based on Zero Padding, ”
+    Journal of Applied Science and Engineering, vol. 19, no. 2, pp. 229-239,
+    June 2016. (EI)
+- type: journal
+  year: 2016
+  citation: "C.-S. Lin*, Wei-Jong Yang, and Jing-Wei Su “FITD: Fast Intra
+    Transcoding from H.264/AVC to high efficiency video coding based on DCT
+    coefficients and prediction modes, ” Journal of Visual Image Communication
+    and Image Representation (SCI), vol. 8, pp. 130-140, July 2016."
+- type: journal
+  year: 2016
+  citation: "C.-S. Lin* and Jhe-Wei Lin “UR-Aware: Streaming Videos over
+    BitTorrent with Balanced Playback Urgency and Rareness Distribution, ”
+    Peer-to-Peer Networking and Applications (SCI), vol. 9, no. 6, pp.
+    1114-1125, November, 2016."
+- type: journal
+  year: 2016
+  citation: C.-S. Lin* and Shang-Hsuan Hsu “Effective Self-Adjustment Places of
+    Interest Discovery in Public Places, ” International Journal of Ad Hoc and
+    Ubiquitous Computing, Vol. 22, No. 4, pp. 226-235, 2016. (SCI)
+- type: journal
+  year: 2016
+  citation: C.-S. Lin* and Jhe-Wei Lin “Service availability of a peer with
+    dynamic buffering for multiple description coded videos on multi-source
+    streaming networks, ” Multimedia Tools and Applications. January 2016, vol.
+    75, issue 2, pp. 1009-1026 (SCI)
+- type: conference
+  year: 2016
+  citation: You-Hsuan Lee and Chow-Sing Lin, “WiFi Fingerprinting for Indoor Room
+    Localization Based on CRF Prediction, ” The Third International Symposium on
+    Computer, Consumer and Control, Xian, China, July 2-4, 2016, pp. 315-318.
+- type: journal
+  year: 2015
+  citation: 黃詩豪、林朝興*、洪健哲、吳承翰、洗鈺淇 “FireFox OS之裝置自動化狀態調整APP”, 理工研究國際期刊(IJSE), 5(3),
+    pp. 23-33, 2015
+- type: conference
+  year: 2015
+  citation: Wei-jong Yang and Chow-Sing Lin “Fast Intra Transcoding From H.264/AVC
+    To High Efficiency Video Coding, ” the 5th International Conference on
+    Engineering and Applied Sciences (ICEAS), Hokkaido, Japan, July 20-22, 2015.
+- type: journal
+  year: 2014
+  citation: "C.-S. Lin*, R.-H. Chang, and Jhe-Wei Lin “TuBeck: A Novel
+    Peer-to-Peer Streaming System with Loopback-MDC by Using H.264/AVC Coder, ”
+    Multimedia Tools and Applications, vol. 72, no. 2, pp. 1653-1679, September
+    2014. (SCI)"
+- type: journal
+  year: 2014
+  citation: "C.-S. Lin* and Meng-Jia Yan, “Dynamic Peer Buffer Adjustment to
+    Improve Service Availability on Peer-to-peer On-demand Streaming Networks, ”
+    Peer-to-Peer Networking and Applications, vol. 7, no. 1, pp. 1-15, March
+    2014. DOI: 10.1007/s12083-012-0138-6 (SCI)"
+- type: journal
+  year: 2014
+  citation: 林朝興、李侑軒、江啟睿、曾楷珉、胡銘軒，”移動式人流計數系統之開發與研究”, vol. 4, no. 3, pp. 21-30
+    理工研究國際期刊(IJSE), 2014
+- type: journal
+  year: 2014
+  citation: 林朝興、吳秀筠、曾金豐，” 在路網中處理具方向性連續查詢之探討”, vol. 4, no. 2, pp. 303-306,
+    理工研究國際期刊(IJSE), 2014
+- type: conference
+  year: 2014
+  citation: Rong-Hua Chang, Chieh-Wei Su, and Chow-Sing Lin “Finding Acceptable
+    Trade-off between Rate and Distortion in Multiple Description Coding based
+    on Zero Padding, ” 2014 International Computer Symposium (2014 ICS), vol. 2.
+    pp. 450-459, Taichung, Taiwan, Dec. 12-14, 2014.
+- type: conference
+  year: 2014
+  citation: Jung-Hung Wang, Jian-Min Wu, and Chow-Sing Lin “A FEC Allocation
+    Method for Unequal Loss Protection of H.264/AVC Videos Based on Macroblock
+    Index, ” 2014 International Computer Symposium (2014 ICS), vol. 1, pp.
+    375-384, Taichung, Taiwan, Dec. 12-14, 2014.
+- type: conference
+  year: 2014
+  citation: Chow-Sing Lin and Jhe-Wei Lin “Streaming Videos over BitTorrent by
+    Balancing Playback Continuity and Distribution of Piece Rareness, ” 2014
+    23rd International Conference on Computer Communication and Networks (ICCCN
+    2014), August, 2014
+- type: conference
+  year: 2014
+  citation: Chow-Sing Lin and Shiou-Yun Wu “Processing Directional Continuous
+    Range Queries for Mobile Objects on Road Networks, ” 2014 IEEE 4th Annual
+    International Conference on Cyber Technology in Automation, Control, and
+    Intelligent Systems (CYBER), June 2014.
+- type: journal
+  year: 2013
+  citation: C.-S. Lin* and Jhe-Wei Lin “Design and Implementation of H.264 Player
+    for Multiple Description Coded Videos, ” International Journal of Science
+    and Engineering (IJSE), vol. 3, issue 4, pp. 15-21, 2013.
+- type: journal
+  year: 2013
+  citation: C.-S. Lin* and An-Chi Chen “Partitioning Sensors by Node Coverage
+    Grouping for Imprecise Data Collecting on Wireless Sensor Networks, ”
+    Journal of Internet Technology, vol. 14, no. 4., pp. 699-710, 2013 (SCI)
+- type: journal
+  year: 2013
+  citation: 'C.-S. Lin* "Balanced Dynamic Buffering for Scalable Video-on-Demand
+    Streaming on Peer-to-Peer Networks, " Multimedia Tools and Applications,
+    vol. 62, issue 3, pp. 701-718, 2013, DOI: 10.1007/s11042-011-0872-4 (SCI).'
+- type: conference
+  year: 2013
+  citation: Chow-Sing Lin and Jhe-Wei Lin “Service Availability for Various
+    Forwarded Descriptions with Dynamic Buffering on Peer-to-Peer Streaming
+    Networks”, PDCAT’13, Dec. 16-18, 2013, Taipei, Taiwan
+- type: conference
+  year: 2013
+  citation: Chow-Sing Lin and Shang-Hsuan Hsu “Efficient Self-Adjustment Places of
+    Interest Finding by Eliminating Dynamic Access Point Beacons in Public
+    Places, ” The 6th edition of the IEEE International Symposium on Wireless
+    Pervasive Computing, Nov. 20-22, 2013, Taipei, Taiwan.
+- type: conference
+  year: 2013
+  citation: Chow-Sing Lin and Ping-Chin Wang “Enhanced Backward Error Concealment
+    for H.264/AVC Videos on Error-Prone Networks, ” The 2013 International
+    Symposium on Biometrics and Security Technologies, Chengdu, Sichuan, China,
+    July 2-5, 2013.
+- type: conference
+  year: 2013
+  citation: 林朝興、吳秀筠、曾金豐 “在路網中處理具方向性連續查詢之探討”，2013全國電信研討會，11/15-16，2013，台南。
+- type: conference
+  year: 2012
+  citation: Chow-Sing Lin and R.-H. Chang “Design and Implementation of Streaming
+    Scalable H.264/AVC Videos with Loopback-MDC on Peer-to-Peer Networks, ”
+    International Workshop on Intelligent Multimedia Computing and
+    Communications, Yunnan, China, Aug. 2012.
+- type: journal
+  year: 2011
+  citation: C.-S. Lin* and Pin-Ching Huang, “Dynamic Handoff Ordering Adjustment
+    for Multimedia Cellular Network, International Journal of Communications,
+    Network and System Sciences, vol. 4, no. 8, pp. 495-506, Aug. 2011
+    (Google-based Impact Factor=0.89)
+- type: journal
+  year: 2011
+  citation: C.-S. Lin* “Enhancing P2P Live Streaming Performance by Balancing
+    Description Distribution and Available Forwarding Bandwidth in P2P Streaming
+    Network, ” International Journal of Communication Systems, vol. 24, no. 5,
+    pp. 568-585, May, 2011. (SCI)
+- type: journal
+  year: 2011
+  citation: 林朝興，張佇寧，李侑軒，徐上軒，莊韶芹，"整合型羽球電子計分板暨即時賽事排程派送系統之分析與實作"，資訊科學應用期刊，2011年6月，第七卷第一期，73-94頁。
+- type: conference
+  year: 2011
+  citation: Chow-Sing Lin and Meng-Jia Yan, “Service Availability for P2P
+    on-demand Streaming with Dynamic Buffering, ” The Fifth International
+    Workshop on Peer-to-Peer Networked Virtual Environments, Tainan, Taiwan,
+    Dec., 2011.
+- type: conference
+  year: 2011
+  citation: Chow-Sing Lin and Guan-Sheng Wang “Balanced Dynamic Buffering for
+    Scalable P2P Video-on-Deman Streaming with Multiple Description Coding”, The
+    Fifth International Conference on Complex, Intelligent, and Software
+    Intensive Systems (CISIS-2011), Korea, June, 2011.
+- type: journal
+  year: 2010
+  citation: C.-S. Lin* and Yi-Chi Cheng “Applying Barter-based Incentive Mechanism
+    to Improve Collaboration on Peer-to-Peer Streaming Networks, ” Journal of
+    Scientific and Technological Studies, vol. 44, no. 2, pp. 1-17, 2010,
+- type: journal
+  year: 2010
+  citation: C.-S. Lin* “Enhancing P2P Live Streaming Performance by Balancing
+    Description Distribution and Available Forwarding Bandwidth, ” International
+    Journal of Communication Systems, vol. 23, no. 12, 2010. (SCI, EI)
+- type: journal
+  year: 2010
+  citation: C.-S. Lin*, “Improving the Availability of Streams by Dynamic
+    Buffering on VoD P2P Network”, The KSII Transactions on Internet and
+    Information Systems (TIIS), vol. 4, no. 4, pp. 491-508. August, 2010. (SCI,
+    EI)
+- type: journal
+  year: 2010
+  citation: C.-S. Lin* and W.-T. Syu “A Fine-Grained Balancing Scheme for Improved
+    Scalability in P2P Streaming, ” Multimedia Tools and Applications, vol. 46,
+    no. 1, pp. 71-90, 2010. (SCI, EI)
+- type: journal
+  year: 2010
+  citation: C.-S. Lin* and I-T. Lee “Applying Multiple Description Coding to
+    Enhance The Streaming Scalability on CDN-P2P Network”, International Journal
+    of Communication Systems, vol. 23, no. 5, pp. 553-568, 2010 (SCI, EI)
+- type: conference
+  year: 2010
+  citation: Chow-Sing Lin and Chih-Chung Chen “Avoidance of Blind Period for Node
+    Coverage Grouping on Wireless Sensor Networks, ” Third International
+    Workshop on Wireless Network Algorithm and Theory (WiNA 2010), Hong Kong,
+    China, Dec., 2010
+- type: conference
+  year: 2010
+  citation: Chow-Sing Lin, Chih-Chung Chen, and An-Chi Chen “Partitioning Sensors
+    by Node Coverage Grouping in Wireless Sensor Networks”The 2010 IEEE
+    International Symposium on Parallel and Distributed Processing with
+    Applications (ISPA-10), Taipei, pp. 306-312, September, 2010.
+- type: conference
+  year: 2010
+  citation: "Chow-Sing Lin and I-Ting Lee, “Loopback-MDC: Scalability Enhancement
+    for Streaming Multiple Description Coded Video on CDN-P2P Network, ” The
+    2010 International Conference on Business and Information (BAI2010),
+    Kitakyushu, Japan, July, 2010."
+- type: conference
+  year: 2010
+  citation: 林朝興，張榮華，呂昇達，黃曟燊“同儕式即時影音串流協定與實作”, 台灣網際網路研討會(TANET2010), Oct., 2010
+- type: journal
+  year: 2009
+  citation: C.-S. Lin* “Using Mobile Host Cooperative Cache Sharing Approach to
+    Improve the Efficiency of Range Query, ” Journal of Internet Technology,
+    vol. 10, no. 3, pp. 215-225, July, 2009. (SCIE, EI)
+- type: conference
+  year: 2009
+  citation: Chow-Sing Lin and Yi-Chi Cheng “A Barter-Based Incentive Mechanism for
+    Peer-to-Peer Media Streaming”, The 13th IEEE International Symposium on
+    Consumer Electronics (ISCE2009), Japan, pp. 871-875, May 2009.
+- type: conference
+  year: 2009
+  citation: "Tai T. Do, Kien A. Hua, and Chow-Sing Lin, “ExtRange: Continuous
+    Moving Range Queries in Mobile Peer-to-Peer Network”, International
+    Conference on Mobile Data Management: Systems, Services and Middleware
+    (MDM2009), Taipei, May 2009."
+- type: conference
+  year: 2009
+  citation: "Himanshu Pagey, Kien A. Hua, and Chow-Sing Lin “Caching as Privacy
+    Enhancing Mechanism in Location Based Services”, International Conf. on
+    Mobile Data Management: Systems, Services and Middleware (MDM2009), Taipei,
+    May 2009."
+- type: conference
+  year: 2009
+  citation: 林朝興，陳執中“在無線感知網路上採用節點覆蓋範圍分群工作節點”, 2009 National Computer Symposium (NCS
+    2009), Dec. 2009.
+- type: conference
+  year: 2009
+  citation: 林朝興，黎俊達，王冠升 “以分群平衡機制之動態緩衝策略提升同儕式網路隨選視訊串流效能”, 2009National Computer
+    Symposium (NCS 2009), Dec. 2009.
+- type: conference
+  year: 2009
+  citation: 林朝興，陳安琪，林哲維，李明憲 “在CDN-P2P上使用ExtLoopback-MDC提升影音服務的可用性”, 2009 National
+    Computer Symposium (NCS 2009), Dec. 2009.
+- type: conference
+  year: 2009
+  citation: 林朝興，李明憲，王鼎超 “在CDN-P2P網路上採用跨串流描述修復提升影音服務的堅韌性”，
+    2009年資訊科技國際研討會(International Conference on Advanced Information
+    Technologies, AIT) ，2009年5月。
+- type: conference
+  year: 2009
+  citation: 林朝興，劉智瑋，王鼎超
+    “應用蟻群最佳化演算法規劃旅遊路線之研究：以南部三縣市為例”，2009年資訊科技國際研討會(International Conference on
+    Advanced Information Technologies, AIT) ，2009年5月。
+- type: journal
+  year: 2008
+  citation: C.-S. Lin* and F.-Z. Yen “Dynamic Resource Adjustment to Provide
+    Seamless Streaming Services on Multimedia Mobile Cellular Networks, ” IEICE
+    Trans. On Communications, Vol. E91-B, No. 2, pp. 553-561, Feb., 2008. (SCI,
+    EI)
+- type: conference
+  year: 2008
+  citation: C.-S. Lin and Liang-Chun Wang, “Improving the Availability of Streams
+    by Dynamic Buffering on VoD P2P Network”, Proc. Of The 5th Workshop on Grid
+    Technologies and Applications, pp. 9-16, Tainan, Dec., 2008.
+- type: conference
+  year: 2008
+  citation: C.-S. Lin, C. -N. Huang and R. -J. Fang, “A Power-Efficient Data
+    Gathering Scheme on Grid Sensor Networks, ”, The 8th WSEAS International
+    Conference on MULTIMEDIA SYSTEMS and SIGNAL PROCESSING (MUSP '08), pp.
+    142-147, April, 2008.
+- type: conference
+  year: 2008
+  citation: C.-S. Lin, W.-T. Syu and I-T. Lee, “Improving the Scalability of P2P
+    Streaming Based on Fine-Grained Balancing Scheme”, The IEEE 22nd
+    International Conference on Advanced Information Networking and Applications
+    (AINA2008), pp. 795-802, Okinawa, Japan, March, 2008.
+- type: conference
+  year: 2008
+  citation: 林朝興, 李宜婷, " 利用多重描述編碼解決CDN-P2P網路上串流服務之異質性, " 第十九屆國際資訊管理學術研討會(ICIM), 2008年5月。
+- type: conference
+  year: 2008
+  citation: 林朝興, 王亮淳, "以調適性動態緩衝策略提升多重描述串流之配置彈性及可用性, " 第十九屆國際資訊管理學術研討會(ICIM), 2008年5月。
+- type: journal
+  year: 2007
+  citation: "C.-S. Lin* and Y.-C. Cheng “P2MCMD: A Scalable Approach to VoD
+    Services Over Peer-to-Peer Networks, ” Journal of Distributed and Parallel
+    Computing, vol. 67, no. 8, pp. 903-921, 2007. (SCI, EI)"
+- type: journal
+  year: 2007
+  citation: 林朝興*，徐維廷，鄭義繼，”藉由平衡Description 分佈與節點負擔提升同儕式網路串流效能”，資訊科技國際期刊，Vol. 1, No.
+    1, pp. 67-81, Oct., 2007 。
+- type: conference
+  year: 2007
+  citation: C.-S. Lin and W.-T. Syu “Enhancing P2P Live Streaming Performance by
+    Balancing Description Distribution and Peer Loading, ” International
+    Conference on High Performance Computing Networking and Communication
+    Systems (HPCNCS-07),, pp. 104-111, July 7-12, 2007, Orlando, Florida.
+- type: conference
+  year: 2007
+  citation: 林朝興，王亮淳，”應用動態緩衝區提升同儕式網路隨選視訊系統之擴充性” ，2007 全國計算機會議 (National Computer
+    Symposium, NCS)，vol. 3, 2007年12月。
+- type: conference
+  year: 2007
+  citation: '林朝興，李宜婷，”Loopback-MDC: 在CDN-P2P網路上利用支援多重編碼描述的協力式快取提升影音串流之延展性"，2007
+    全國計算機會議 (National Computer Symposium, NCS)，pp. 700-711, vol. 2, 2007年12月。'
+- type: conference
+  year: 2007
+  citation: 林朝興，徐維廷，”藉由平衡Description 分佈與節點負擔提升P2P 網路效能”， 2007年資訊科技國際研討會
+    (International Conference on Advanced Information Technologies,
+    AIT)，2007年4月。
+- type: journal
+  year: 2006
+  citation: C.-S. Lin*, “Utilizing Multi-Channel Multicast to Provide Scheduled
+    Video Delivery, ” Computer Communications, vol. 29, issue 10, pp. 1833-1841,
+    2006. (SCI, EI)
+- type: journal
+  year: 2006
+  citation: "C.-S. Lin*, “PFCF: An Effective VBR Stream Scheduling Algorithm for
+    Clustered Media Systems, ” Journal of Internet Technology, vol. 7, no. 3,
+    pp. 293-304, July 2006. (SCI, EI)"
+- type: journal
+  year: 2006
+  citation: C.-S. Lin* and C.-C. Lu “Applying Dynamic Handoff to Increase System
+    Performance on Wireless Cellular Networks, ” Lecture Notes in Computer
+    Science, pp. 609-619, May 2006. (SCI, EI)
+- type: journal
+  year: 2006
+  citation: "C.-S. Lin* and C.-J. Hsieh “SOTS-CE: A Sonography Ovarian Tumor
+    System with Case Exchange, ” Journal of Information Science and Engineering,
+    vol. 22, no. 4, pp. 735-750, 2006. (SCI, EI)"
+- type: journal
+  year: 2006
+  citation: 林朝興 ” CNC彎管機動態3D預覽系統之設計與實作” ，中華民國資訊學會通訊(Communications of IICM)，Vol.
+    9, No. 3, pp. 113-127, Sep. 2006
+- type: journal
+  year: 2006
+  citation: 林朝興*，唐瑩荃 “以顧客價值分析與權重漸進探勘來進行協力式音樂推薦”， 資訊、科技與社會，第六卷第一期，2006年6月，1-26頁
+- type: journal
+  year: 2006
+  citation: 林朝興*，郭文真 “基於Fuzzy MCMD 之附屬品協商交易策略探討”，電子商務學報， 2006年3月，第8卷，129-162頁。(TSSCI)
+- type: conference
+  year: 2006
+  citation: C.-S. Lin* and Pin-Ching Huang, “Dynamic Handoff Ordering Adjustment
+    for Multimedia Cellular Network, ” Proc. Of 2006 International Conference on
+    Computer Science and Informatics (CS&I 2006), pp. 921-924, Oct. 2006. (EI)
+- type: journal
+  year: 2005
+  citation: 林朝興*，黃家盛 “多行動代理人於行動商務之效能模型－以線上議價為例” ，資訊管理展望，2005年10月，第7卷第2期，138-155頁
+- type: journal
+  year: 2005
+  citation: 林朝興*，王怡君 “建立分段MP3歌曲重複樣型之分類索引結構”，資訊、科技與社會，第五卷第二期，2005年12月，74-98頁
+- type: conference
+  year: 2005
+  citation: "C.-S. Lin* and Yao-Hua Chang “Using Cooperative Sharing Approach to
+    Improve the Efficiency of Range Queries”, The 3rd International Conference
+    on Information Technology: Research and Education (ITRE 2005), June 2005.
+    (EI)"
+- type: conference
+  year: 2005
+  citation: C.-S. Lin and Y.-C. Cheng “Deploying P2P Techniques to Provide VoD
+    Services under Scheduled Video Delivery Paradigm, ” 2005 National Computer
+    Symposium, Taiwan, Dec. 2005.
+- type: conference
+  year: 2005
+  citation: 林朝興，唐瑩荃，"應用RFM模組與權重漸進探勘使用者最近習慣進行協力式推薦"，中華民國九十四年全國計算機會議(NCS2005)，2005年12月
+- type: conference
+  year: 2005
+  citation: 林朝興，張耀華，"在行動環境中解決範圍查詢之協同快取分享方法"，中華民國九十四年全國計算機會議(NCS2005)，2005年12月
+- type: conference
+  year: 2005
+  citation: 林朝興，唐瑩荃，以權重漸進來探勘使用者最近習慣在音樂推薦之應用 ", 數位內容管理與應用(DCMA2005), 2005年5月
+- type: conference
+  year: 2005
+  citation: 林朝興，張耀華 “利用行動節點協同快取方式提升範圍查詢效能” 2005 第十六屆國際資訊管理學術研討會，2005年4月
+- type: conference
+  year: 2005
+  citation: 林朝興，呂正吉，嚴方志 “利用動態交遞來調節無線蜂巢式網路的負載平衡” Mobile Computing 2005 (MC2005)，2005年3月
+- type: conference
+  year: 2005
+  citation: 林朝興，唐瑩荃"漸進挖掘使用者最近興趣在協力式音樂推薦之應用"，電子商務與數位生活研討會(ECDL 2005)，2005年3月
+- type: journal
+  year: 2004
+  citation: 林朝興*，許正昌 "針對處理工作流程例外之高效率搜尋方法" ，資訊管理展望， 2004年3月，第6卷第1期，73-98頁
+- type: conference
+  year: 2004
+  citation: C.-S. Lin*, T.-Y. Chang, F.-Z. Yen "Performance Study of Multi-Channel
+    Multicast Delivery for Scheduled Videos, " Proc. Of 2004 IEEE Asia-Pacific
+    Conference on Circuits and Systems (APCCAS 2004), vol. 2, pp. 901-904, Dec.
+    2004. (EI)
+- type: conference
+  year: 2004
+  citation: C.-S. Lin, F.-Z. Yen and C.-C. Lu "Utilizing Dynamic Resource
+    Adjustment to Improve QoS of Streaming in Multimedia Wireless Network, "
+    International Computer Symposium (ICS2004), Dec. 2004
+- type: conference
+  year: 2004
+  citation: 林朝興，郭文真"運用Fuzzy MCDM為附屬品協商之交易策略探討"， 2004台灣商管與資訊研討會，2004年7月
+- type: conference
+  year: 2004
+  citation: 林朝興，嚴方志，張耀華 "利用動態資源調節提高無線網路多媒體串流服務品質"，2004 第十五屆國際資訊管理學術研討會，2004年4月
+- type: conference
+  year: 2004
+  citation: 林朝興，王怡君 "支援MP3斷句快速內容查詢之索引結構"，2004 第十五屆國際資訊管理學術研討會，2004年4月
+- type: conference
+  year: 2004
+  citation: 林朝興，張宗堯 "多頻道群播在預約影片傳送之排程研究", 2004 第十五屆國際資訊管理學術研討會，2004年4月
+- type: conference
+  year: 2004
+  citation: 林朝興，張耀華，嚴方志，"以物件合作方式提升行動計算範圍查詢效能"， Mobile Computing 2004, 2004年3月
+- type: journal
+  year: 2003
+  citation: "M. Y. Wu, W. Shu and C.-S. Lin “Odyssey: A High Performance,
+    Clustered Video Server”, Software: Practice and Experience, vol. 33, pp.
+    673-700, March 2003. (SCI, EI)"
+- type: journal
+  year: 2003
+  citation: 林朝興*，洪駿命“應用XML為基礎相關技術之多媒體網路教學”，資訊與教育，2003年2月，98-105頁
+- type: conference
+  year: 2003
+  citation: C.-S. Lin, T.-Y. Chang, J. -R. Hsieh, “On Utilizing Multi-Channel to
+    Provide Scheduled Video Delivery”, vol. 1. pp. 817-820, in Proc. of 2003
+    IEEE International Conference on Multimedia & Expo, July 2003.
+- type: conference
+  year: 2003
+  citation: 林朝興，謝金儒， 2003年12月， “SOTS：MPEG-7卵巢腫瘤超音波醫療影像系統” ，92全國計算機會議 (NCS ’03) ，逢甲大學.
+- type: conference
+  year: 2003
+  citation: 林朝興，王怡君，2003年11月，“高效能分段擷取MP3樂曲高頻重覆樣型” ，2003年民生電子研討會(WCE2003) ，成功大學.
+- type: conference
+  year: 2003
+  citation: 林朝興，許正昌，黃家盛, 2003年9月， “應用代理人機制於自動化工作流程例外處理” ，2003資訊管理技術與實務應用發展研討會，新埔技術學院.
+- type: conference
+  year: 2003
+  citation: 林朝興，黃家盛，郭文真，2003年6月，“多行動代理人於行動商務之效能模型—以線上議價為例"， 2003
+    第十四屆國際資訊管理學術研討會(ICIM2003) ，中正大學.
+- type: conference
+  year: 2003
+  citation: 林朝興，郭文真，許正昌，2003年6月，“以附屬品協商為基礎之交易策略探討-B2C” ， 2003
+    第十四屆國際資訊管理學術研討會(ICIM2003) ，中正大學.
+- type: conference
+  year: 2003
+  citation: 吳易珊，林朝興，黃明達，2003年1月，"PDA及無線網路之整合－即時旅遊資訊系統"，2003企業資源規劃研究暨實務研討會，世新大學.
+- type: conference
+  year: 2003
+  citation: 林朝興，許正昌，2003年1月， "跨知識平台自動資訊採集系統之分析與設計"，2003企業資源規劃研究暨實務研討會，世新大學.
+- type: journal
+  year: 2002
+  citation: 林朝興*，黃家盛“應用行動購物代理人於無線網路 -- 以頻寬為需求為考量之效能模型”， 南台科技大學學報，第二十七期，2002年12月，137-152頁
+- type: conference
+  year: 2002
+  citation: 林朝興，許正昌，2002年12月， "以代理人機制為基礎自動化處理工作流程例外之架構探討"，2002年電子商務經營管理研討會，逢甲大學.
+- type: conference
+  year: 2002
+  citation: 林朝興，李淑雅，2002年12月， "於MPEG-7卵巢腫瘤超音波醫療影像之資訊交換", 2002年電子商務經營管理研討會，逢甲大學.
+- type: conference
+  year: 2002
+  citation: '林朝興，嚴方志，2002年11月， "多媒體無線通訊平台之設計與實作: 以無線上網購票為例" ， 創新與知識管理學術研討會, 銘傳大學.'
+- type: conference
+  year: 2002
+  citation: 林朝興，許正昌，黃家盛， 2002年11月，"應用行動代理人於處理工作流程例外之探討"，創新與知識管理學術研討會，銘傳大學.
+- type: conference
+  year: 2002
+  citation: 林朝興，黃家盛，2002年11月， "應用於無線通訊之行動購物代理人效能模型—以頻寬需求為考量"，第八屆資訊管理研究暨實務研討會，高雄第一科技大學
+- type: conference
+  year: 2002
+  citation: 林朝興，王信誠，2002年10月，“VBR串流排程法於叢集式多處理器系統效能分析” ，TANET 2002， 清華大學.
+- type: conference
+  year: 2002
+  citation: 林朝興，黃家盛，許正昌，2002年6月， "行動電子商務代理人之效能分析-以線上購物為基礎"， 2002年資訊管理國際研討會，育達商業技術學院.
+- type: conference
+  year: 2002
+  citation: 林朝興，洪駿命， 2002年6月， "WME：建置在XML基礎相關技術之多媒體網路教學系統"，第一屆數位典藏技術研討會，中央研究院.
+- type: conference
+  year: 2002
+  citation: 林朝興，洪駿命，2002年6月，"以XML 為基礎之相關技術在多媒體網路教學之規劃"，廿一世紀數位生活與網際網路科技研討會，成功大學.
+- type: conference
+  year: 2002
+  citation: 林朝興，王仁宗，陳億銘，王雅蘭，張櫻英，2002年4月， "CNC彎管機3D繪圖預覽系統之設計與實作"，第十七屆全國技職研討會.
+- type: conference
+  year: 2002
+  citation: 林朝興, 洪駿命，2002年4月，"多媒體同步技術在網路教學應用之現狀探討"，第十七屆全國技職研討會.
+- type: conference
+  year: 2002
+  citation: "林朝興，王信誠，2002年5月，”PFCF:
+    叢集式多媒體系統之高效能VBR串流排程法”，第十三屆國際資訊管理學術研討會(ICIM2002). (NSC 90-2213-E-218-001-)"
+- type: conference
+  year: 2002
+  citation: 林朝興，李淑雅，許耿福，2002年5月，“基於MPEG-7之卵巢腫瘤超音波醫療影像資料庫”，第十三屆國際資訊管理學術研討會(ICIM2002).
+- type: conference
+  year: 2002
+  citation: 林朝興，王信誠，洪駿命，2002年3月，“在叢集式多媒體系統上排程VBR串流之研究” ，銘傳大學e世紀的挑戰國際學術研討會. (NSC
+    90-2213-E-218-001-)
+- type: journal
+  year: 2001
+  citation: C.-S. Lin*, M. Y. Wu and W. Shu, “Efficient Algorithms for
+    Slot-Scheduling and Cycle-Scheduling of Video Streams on Clustered Video
+    Servers”, Multimedia Tools and Applications, vol 13, pp. 213-227, 2001.
+    (SCI, EI)
+- type: conference
+  year: 2001
+  citation: 林朝興，王仁宗，陳億銘，王雅蘭，張櫻英，范世宗，2001年6月, “動態3D彎管繪圖技術”, 第一屆全國技專校院工程技術類產學合作技術移轉成果發表研討會.
+- type: conference
+  year: 2001
+  citation: 林朝興，洪駿命，王信誠, 2001年4月, “改善校園網路建置與規劃隨選視訊之可行性 – 以台南市海東國小為例” 第十六屆全國技術及職業教育研討會.
+- type: conference
+  year: 2000
+  citation: Z. Ding, C.-S. Lin and M. Y. Wu, “Fast-Forward Functions on Parallel
+    Video Servers”, in Proc. of 2000 IEEE International Conference on Multimedia
+    & Expo, July 2000.
+- type: conference
+  year: 2000
+  citation: C.-S. Lin, M. Y. Wu and W. Shu, July 2000, "Transmitting
+    Variable-Bit-Rate Videos on Clustered VoD Systems", in Proc. of 2000 IEEE
+    International Conference on Multimedia & Expo, March 2000.
+- type: conference
+  year: 2000
+  citation: C.-S. Lin, W. Shu, M. Y. Wu and X. Zeng, "VoD on Internet2", in Proc.
+    of ISCA/CATA-2000.
+- type: book
+  year: 2000
+  citation: C.-S. Lin “On Design and Implementation of Parallel Video Servers, ”
+    Ph. D. Dissertation, University of Central Florida, USA, May 2000.
+- type: conference
+  year: 1999
+  citation: C.-S. Lin., "On Design of Network Scheduling in Parallel
+    Video-on-Demand Systems", in Proc. of ACM multimedia, vol 2, Oct. 1999.
+- type: conference
+  year: 1999
+  citation: C.-S. Lin, W. Shu and M. Y. Wu, "Performance study of synchronization
+    schemes on parallel CBR video servers", in Proc. of ACM Multimedia, vol 2,
+    Oct. 1999.
+- type: conference
+  year: 1999
+  citation: C.-S. Lin, M. Y. Wu and W. Shu, "Efficient Algorithms for Scheduling
+    Video Streams on Parallel Video Servers", in Proc. of third IASTED
+    International conference on Internet and Multimedia Systems and
+    Applications, 1999.
+- type: conference
+  year: 1999
+  citation: C.-S. Lin, M. Y. Wu and W. Shu, "A Scalable Parallel Video Server on
+    Shared Ethernet", in Proc. of 12th ISCA International Conference on Parallel
+    and Distributed Computing Systems, 1999.

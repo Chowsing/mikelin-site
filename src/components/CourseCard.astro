@@ -1,0 +1,9 @@
+---
+const { course } = Astro.props;
+---
+
+<article class="course-card">
+  <p class="course-level">{course.level}</p>
+  <h3>{course.titleZh}</h3>
+  <p>{course.titleEn}</p>
+</article>

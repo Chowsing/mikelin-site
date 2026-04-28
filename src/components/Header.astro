@@ -1,0 +1,57 @@
+---
+import { withBasePath } from '../lib/site';
+
+const { currentPath = '/' } = Astro.props;
+
+const navItems = [
+  { href: '/', label: '首頁' },
+  { href: '/research', label: '研究' },
+  { href: '/publications', label: '論文' },
+  { href: '/courses', label: '課程' },
+  { href: '/service', label: '服務' },
+  { href: '/awards', label: '獲獎' },
+];
+
+const isCurrent = (href: string) => (href === '/' ? currentPath === '/' : currentPath.startsWith(href));
+---
+
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href={withBasePath('/')}>
+      <span class="brand-mark">CSL</span>
+      <span>
+        <strong>林朝興教授</strong>
+        <small>Chow-Sing Lin</small>
+      </span>
+    </a>
+
+    <nav class="desktop-nav" aria-label="主導覽">
+      {
+        navItems.map((item) => (
+          <a class:list={["nav-link", { active: isCurrent(item.href) }]} href={withBasePath(item.href)}>
+            {item.label}
+          </a>
+        ))
+      }
+      <a class="nav-link external-link" href="https://www.facebook.com/DSLab.tw/" target="_blank" rel="noreferrer">
+        實驗室
+      </a>
+    </nav>
+
+    <details class="mobile-nav">
+      <summary>選單</summary>
+      <div class="mobile-panel">
+        {
+          navItems.map((item) => (
+            <a class:list={["mobile-link", { active: isCurrent(item.href) }]} href={withBasePath(item.href)}>
+              {item.label}
+            </a>
+          ))
+        }
+        <a class="mobile-link" href="https://www.facebook.com/DSLab.tw/" target="_blank" rel="noreferrer">
+          資料系統實驗室
+        </a>
+      </div>
+    </details>
+  </div>
+</header>

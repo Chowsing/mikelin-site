@@ -1,0 +1,22 @@
+nameZh: 林朝興
+nameEn: Chow-Sing Lin, Professor (Ph. D.)
+photo: /images/profile.jpg
+emailImage: /images/email.png
+lastUpdated: 2026-04-28
+office: 國立臺南大學榮譽校區 ZC202-2
+extension: 06 - 2606123 ext. 7301
+fax: 06 - 2606125
+title: 教授兼資工系主任
+education: Ph. D. of Computer Engineering, School of Computer Science and
+  Electrical Engineering, University of Central Florida, USA
+summary: 研究方向涵蓋深度學習、多媒體內容分析、串流技術、行動計算與物聯網。
+researchSummary:
+  - AI神經網路及應用
+  - 深度學習
+  - 多媒體內容分析辨識與生成
+  - 媒體串流與編碼技術
+  - 行動普適計算
+  - 物聯網
+links:
+  - label: Data Systems Laboratory@FB
+    url: https://www.facebook.com/pages/Data-Systems-Lab/344107525681540

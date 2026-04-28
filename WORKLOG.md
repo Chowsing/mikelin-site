@@ -1,0 +1,44 @@
+## Project
+
+`/root/mikelin-site` 是林朝興教授個人網站的 Astro 重構版。
+
+## Current Status
+
+- 已從 Astro 預設範本改為學術個人網站
+- 已新增多頁面架構：首頁、研究、論文、課程、服務、獲獎
+- 已新增共用 layout、header、footer 與多個內容元件
+- 已將主要內容改為 `src/data/` 下的資料驅動結構
+- 已加入 GitHub Pages 部署相關設定與資料擷取腳本
+- 已於 2026-04-28 執行 `npm run build`，目前可正常建置
+- 已於 2026-04-28 重新調整首頁版面，重整 hero 資訊層級與首頁區塊引導文案
+- 已於 2026-04-28 驗證 `SITE_URL` / `BASE_PATH` 建置輸出，專案頁面站路徑正常
+- 已修正 `.github/workflows/deploy.yml`，讓 GitHub Pages workflow 同時支援 `master` 與 `main`
+- 已於 2026-04-28 依版面審閱持續精簡首頁，移除重複資訊、快速導覽卡片與首頁統計區塊，並重新整理 hero 區塊層級
+- 已將學歷移至姓名區下方，右側欄位縮減為照片、聯絡資訊與外部連結
+- 已更新姓名與職稱顯示為 `林朝興`、`教授兼資工系主任`
+- 目前這批改動尚未提交 commit
+
+## Important Files
+
+- `README.md`: 專案說明與內容維護方式
+- `astro.config.mjs`: 靜態輸出與 `SITE_URL` / `BASE_PATH` 設定
+- `src/pages/index.astro`: 首頁
+- `src/pages/research.astro`: 研究計畫頁
+- `src/pages/publications.astro`: 論文頁
+- `src/pages/courses.astro`: 課程頁
+- `src/pages/service.astro`: 服務頁
+- `src/pages/awards.astro`: 獲獎頁
+- `src/layouts/BaseLayout.astro`: 主 layout
+- `src/data/`: 內容資料
+
+## Git Snapshot
+
+- 初始 commit: `bf74945` `Initial commit from Astro`
+- 目前 worktree 有大量未提交變更
+
+## Notes For Next Session
+
+- 先看 `git status`
+- 再看 `NEXT_STEPS.md`
+- 目前 build 已通過；部署 workflow 分支觸發也已補齊，若要確認可否發布，優先做頁面顯示檢查
+- 本輪主要持續調整首頁，子頁面資料與結構未另外重組

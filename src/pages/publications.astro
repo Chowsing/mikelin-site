@@ -1,0 +1,47 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PublicationItem from '../components/PublicationItem.astro';
+import SectionTitle from '../components/SectionTitle.astro';
+import { getPublications, groupBy, mergePreferredOrder } from '../lib/data';
+
+const publications = getPublications();
+const typeLabels = {
+  journal: '期刊論文',
+  conference: '研討會論文',
+  book: '專書論文',
+};
+const byType = groupBy(publications, (item) => item.type);
+const typeOrder = mergePreferredOrder(['journal', 'conference', 'book'], Object.keys(byType));
+---
+
+<BaseLayout title="論文" currentPath="/publications">
+  <section class="section page-intro-section">
+    <div class="container">
+      <SectionTitle title="論文發表" />
+
+      {
+        typeOrder.map((type) => {
+          const items = byType[type] ?? [];
+          const byYear = groupBy(items, (item) => String(item.year ?? '未註明'));
+          const years = Object.keys(byYear).sort((a, b) => Number(b) - Number(a));
+
+          return (
+            <section class="type-group">
+              <div class="content-card">
+                <h3>{typeLabels[type as keyof typeof typeLabels] ?? type}</h3>
+                {years.map((year) => (
+                  <div class="year-group">
+                    <p class="kicker">{year}</p>
+                    <ol class="publication-list">
+                      {byYear[year].map((publication) => <PublicationItem publication={publication} />)}
+                    </ol>
+                  </div>
+                ))}
+              </div>
+            </section>
+          );
+        })
+      }
+    </div>
+  </section>
+</BaseLayout>
