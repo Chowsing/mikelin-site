@@ -498,7 +498,7 @@ main {
 }
 
 .hero-card img.profile-photo {
-  width: min(100%, 220px);
+  width: min(100%, 170px);
   aspect-ratio: 4 / 5;
   object-fit: cover;
   border-radius: 22px;
@@ -939,6 +939,22 @@ main {
 
 .summary-grid .plain-list {
   gap: 0.5rem;
+}
+
+.project-home-groups {
+  display: grid;
+  gap: 1rem;
+}
+
+.project-home-group h3 {
+  margin: 0 0 0.65rem;
+  font-size: 0.98rem;
+  color: var(--accent);
+}
+
+.project-home-group + .project-home-group {
+  padding-top: 0.9rem;
+  border-top: 1px solid rgba(118, 139, 163, 0.12);
 }
 
 .project-card h3,
