@@ -25,6 +25,8 @@
 - 已改用 SSH remote 並成功推送 `master` 到 GitHub
 - 已建立 commit：`a4d39b4` `Update project notes for GitHub Pages rollout`
 - 已再將最新 `master` 推送到 GitHub，等待 GitHub Pages workflow 完成首次部署
+- 已建立 commit：`d5c3239` `Refine homepage presentation and deployment notes`
+- 已持續微調首頁 hero 區塊，包含研究重點欄數、姓名字級、照片尺寸、左右欄留白與聯絡資訊排列
 
 ## Important Files
 
@@ -42,13 +44,13 @@
 ## Git Snapshot
 
 - 初始 commit: `bf74945` `Initial commit from Astro`
-- 目前 worktree 有大量未提交變更
+- 最新首頁調整已先提交，後續若再微調可直接從 `d5c3239` 往後延續
 
 ## Notes For Next Session
 
 - 先看 `git status`
 - 再看 `NEXT_STEPS.md`
 - 目前 build 已通過；部署 workflow 分支觸發也已補齊，若要確認可否發布，優先做頁面顯示檢查
-- 本輪主要持續調整首頁，子頁面資料與結構未另外重組
+- 本輪主要持續調整首頁 hero 視覺比例與留白，子頁面資料與結構未另外重組
 - GitHub Pages 若尚未生效，先到 repo settings 把 Pages source 設為 `GitHub Actions`
 - 若網站仍顯示 404，先到 GitHub Actions 確認 `Deploy Astro to GitHub Pages` 是否已成功

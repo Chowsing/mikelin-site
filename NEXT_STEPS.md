@@ -19,7 +19,9 @@
 - 已建立 commit：`546efdc` `Refine the homepage content layout`
 - 已建立 commit：`1126377` `Polish homepage presentation and project data`
 - 已建立 commit：`a4d39b4` `Update project notes for GitHub Pages rollout`
+- 已建立 commit：`d5c3239` `Refine homepage presentation and deployment notes`
 - commit 後又追加首頁微調：首頁研究計畫分成 `國科會研究計畫` / `教育部研究計畫`、兩組皆列到 2010 年、服務與獲獎改為近 5 年、移除首頁授課課程、縮小右側照片
+- 已持續微調首頁 hero 區塊：研究重點改為 6 筆、研究重點卡片欄數切換測試、姓名字級縮小、照片尺寸與左右欄留白重整
 - `tmp-source/` 已加入 `.gitignore`，避免持續出現在 worktree
 - 已建立 GitHub repo：`https://github.com/Chowsing/mikelin-site`
 - 已改用 SSH remote 並成功推送 `master` 到 GitHub
