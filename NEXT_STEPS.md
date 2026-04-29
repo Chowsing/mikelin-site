@@ -1,9 +1,9 @@
 ## Next Steps
 
-1. 檢查首頁與各分頁內容是否正確顯示
-2. 檢查 GitHub Actions `Deploy Astro to GitHub Pages` 是否成功
-3. 確認實際部署網址 `https://chowsing.github.io/mikelin-site/` 顯示正常
-4. 若仍有首頁細節需微調，再另建一筆 commit
+1. 重新確認首頁與各分頁內容是否正確顯示
+2. 重新確認實際部署網址 `https://chowsing.github.io/mikelin-site/` 已反映 commit `01a92cb`
+3. 若仍有首頁細節需微調，再另建一筆 commit
+4. 若後續需要，可直接用 `gh` 在 VPS 上查 Actions 或建立 PR
 
 ## Latest Verification
 
@@ -21,6 +21,12 @@
 - 已建立 commit：`a4d39b4` `Update project notes for GitHub Pages rollout`
 - 已建立 commit：`d5c3239` `Refine homepage presentation and deployment notes`
 - 已建立 commit：`1da3453` `Polish homepage hero spacing`
+- 已再調整首頁 hero：研究重點維持 3 欄、文字不換行，右側照片縮小，研究重點上下留白重新分配
+- 已建立 commit：`01a92cb` `Refine homepage hero spacing`
+- 已推送最新 `master`，對應 workflow run：`https://github.com/Chowsing/mikelin-site/actions/runs/25090432875`
+- 已確認正式站 `https://chowsing.github.io/mikelin-site/` 可正常開啟
+- 已安裝 `gh` (`2.45.0`) 並完成 `gh auth login`，目前登入帳號為 `Chowsing`
+- 已用 `gh run list` 確認最新 workflow run `25090432875` 狀態為 `completed success`
 - commit 後又追加首頁微調：首頁研究計畫分成 `國科會研究計畫` / `教育部研究計畫`、兩組皆列到 2010 年、服務與獲獎改為近 5 年、移除首頁授課課程、縮小右側照片
 - 已持續微調首頁 hero 區塊：研究重點改為 6 筆、研究重點卡片欄數切換測試、姓名字級縮小、照片尺寸與左右欄留白重整
 - 已將最新首頁 hero 微調推送到 `master`，等待 GitHub Actions 再次部署
@@ -40,6 +46,4 @@
 
 ## Open Questions
 
-- 目前尚未確認首頁在瀏覽器中的實際呈現是否符合預期
-- 尚未確認 Actions deploy 是否成功
-- 尚未確認實際部署網址顯示是否符合預期
+- 最新正式站是否已完整反映 commit `01a92cb` 的 hero 微調，仍可再人工檢查一次畫面

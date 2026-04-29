@@ -29,6 +29,12 @@
 - 已持續微調首頁 hero 區塊，包含研究重點欄數、姓名字級、照片尺寸、左右欄留白與聯絡資訊排列
 - 已建立 commit：`1da3453` `Polish homepage hero spacing`
 - 已推送最新 `master`，首頁 hero 左右欄比例、研究重點密度與照片尺寸已再微調
+- 已再微調首頁 hero：研究重點維持 3 欄且不換行，右側照片縮小，研究重點上方留白收緊並改為上下較平均分配
+- 已建立 commit：`01a92cb` `Refine homepage hero spacing`
+- 已推送最新 `master`，GitHub Actions `Deploy Astro to GitHub Pages` 已再次觸發
+- 已確認正式站 `https://chowsing.github.io/mikelin-site/` 可正常開啟，不再是 404
+- 已於本機安裝 `gh`，並已完成 `gh auth login`
+- 已用 `gh run list` 確認最新 GitHub Actions `Deploy Astro to GitHub Pages` run (`25090432875`) 已 `completed success`
 
 ## Important Files
 
@@ -46,7 +52,7 @@
 ## Git Snapshot
 
 - 初始 commit: `bf74945` `Initial commit from Astro`
-- 最新首頁調整已提交並推送，後續若再微調可直接從 `1da3453` 往後延續
+- 最新首頁調整已提交並推送，後續若再微調可直接從 `01a92cb` 往後延續
 
 ## Notes For Next Session
 
@@ -54,5 +60,5 @@
 - 再看 `NEXT_STEPS.md`
 - 目前 build 已通過；部署 workflow 分支觸發也已補齊，若要確認可否發布，優先做頁面顯示檢查
 - 本輪主要持續調整首頁 hero 視覺比例與留白，子頁面資料與結構未另外重組
-- GitHub Pages 若尚未生效，先到 repo settings 把 Pages source 設為 `GitHub Actions`
-- 若網站仍顯示 404，先到 GitHub Actions 確認 `Deploy Astro to GitHub Pages` 是否已成功
+- 正式站已可開啟，且最新 deploy 已成功；下次可直接檢查正式站是否還有視覺細節要微調
+- 這台 VPS 的 `gh` 已登入 `Chowsing`，可直接用來查 Actions / PR / repo 狀態
