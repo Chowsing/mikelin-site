@@ -27,6 +27,8 @@
 - 已再將最新 `master` 推送到 GitHub，等待 GitHub Pages workflow 完成首次部署
 - 已建立 commit：`d5c3239` `Refine homepage presentation and deployment notes`
 - 已持續微調首頁 hero 區塊，包含研究重點欄數、姓名字級、照片尺寸、左右欄留白與聯絡資訊排列
+- 已建立 commit：`1da3453` `Polish homepage hero spacing`
+- 已推送最新 `master`，首頁 hero 左右欄比例、研究重點密度與照片尺寸已再微調
 
 ## Important Files
 
@@ -44,7 +46,7 @@
 ## Git Snapshot
 
 - 初始 commit: `bf74945` `Initial commit from Astro`
-- 最新首頁調整已先提交，後續若再微調可直接從 `d5c3239` 往後延續
+- 最新首頁調整已提交並推送，後續若再微調可直接從 `1da3453` 往後延續
 
 ## Notes For Next Session
 
