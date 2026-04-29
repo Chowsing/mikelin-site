@@ -231,12 +231,14 @@
   sponsor: 國科會
   role: 計畫主持人
 - category: 產學合作計畫
-  title: 春園高爾夫休閒農場網站 合作廠商 ：春園休閒農場
+  title: 春園高爾夫休閒農場網站
   year: 2007
+  partner: 春園休閒農場
   period: 2007/11 ~ 2012/10
 - category: 產學合作計畫
-  title: 電話語音教學及評分系統 合作廠商 ：林肯美語教育機構
+  title: 電話語音教學及評分系統
   year: 2007
+  partner: 林肯美語教育機構
   period: 2007/07 ~ 2008/06
 - category: 國科會研究計畫
   title: 運用多重描述編碼解決同儕式媒體串流之非對稱性、異質性及變動性
@@ -318,6 +320,7 @@
   sponsor: 國科會
   role: 計畫主持人
 - category: 產學合作計畫
-  title: 動態3D彎管繪圖技術 喬陞機器股份有限公司
+  title: 動態3D彎管繪圖技術
   year: 2001
+  partner: 喬陞機器股份有限公司
   period: 2001/01 ~ 2001/12

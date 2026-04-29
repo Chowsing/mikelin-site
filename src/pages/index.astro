@@ -17,16 +17,17 @@ const researchProjectsByCategory = groupBy(getResearchProjects(), (project) => p
 const featuredProjectGroups = [
   {
     title: '國科會研究計畫',
-    items: (researchProjectsByCategory['國科會研究計畫'] ?? []).slice(0, 6),
+    items: (researchProjectsByCategory['國科會研究計畫'] ?? []).filter((project) => project.year >= 2010),
   },
   {
     title: '教育部研究計畫',
-    items: (researchProjectsByCategory['教育部研究計畫'] ?? []).slice(0, 3),
+    items: (researchProjectsByCategory['教育部研究計畫'] ?? []).filter((project) => project.year >= 2010),
   },
 ].filter((group) => group.items.length > 0);
 const publications = getPublications().slice(0, 6);
-const services = getServices().slice(0, 4);
-const awards = getAwards().slice(0, 4);
+const recentServiceCutoffYear = new Date().getFullYear() - 4;
+const services = getServices().filter((item) => item.year >= recentServiceCutoffYear);
+const awards = getAwards().filter((item) => item.year >= recentServiceCutoffYear);
 const heroFocusItems = profile.researchSummary.slice(0, 4);
 
 const personSchema = {
@@ -51,8 +52,8 @@ const personSchema = {
       <section class="hero-copy panel">
         <div class="hero-intro">
           <h1>{profile.nameZh}</h1>
-          <p class="kicker">{profile.nameEn}</p>
           <p class="hero-title">{profile.title}</p>
+          <p class="kicker">{profile.nameEn}</p>
           <p class="hero-education">{profile.education}</p>
           <div class="hero-actions">
             <a class="button" href={withBasePath('/publications')}>學術成果</a>
