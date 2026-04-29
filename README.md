@@ -149,9 +149,30 @@ npm run preview
   text: 最佳論文獎：某國際研討會，論文題目：XXX
 ```
 
+### 7. 更新後如何發布
+
+如果只是修改 `src/data/*.yaml` 內容，發布流程如下：
+
+```bash
+npm run build
+git add .
+git commit -m "Update site content"
+git push origin master
+```
+
+推送後，GitHub Actions 會自動部署到 GitHub Pages。
+
+可到這裡確認部署狀態：
+
+- `https://github.com/Chowsing/mikelin-site/actions`
+
+網站網址：
+
+- `https://chowsing.github.io/mikelin-site/`
+
 ## GitHub Pages 部署
 
-本專案已提供 `.github/workflows/deploy.yml`，推送到 `main` 後即可自動部署。
+本專案已提供 `.github/workflows/deploy.yml`，推送到 `master` 或 `main` 後即可自動部署。
 
 ### GitHub Repository 設定
 

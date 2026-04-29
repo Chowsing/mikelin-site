@@ -1,9 +1,9 @@
 ## Next Steps
 
 1. 檢查首頁與各分頁內容是否正確顯示
-2. 到 GitHub repo settings 確認 Pages source 設為 `GitHub Actions`
-3. 檢查 GitHub Actions deploy 是否成功
-4. 確認實際部署網址 `https://chowsing.github.io/mikelin-site/` 顯示正常
+2. 檢查 GitHub Actions `Deploy Astro to GitHub Pages` 是否成功
+3. 確認實際部署網址 `https://chowsing.github.io/mikelin-site/` 顯示正常
+4. 若仍有首頁細節需微調，再另建一筆 commit
 
 ## Latest Verification
 
@@ -18,10 +18,13 @@
 - 已建立 commit：`d3192db` `Rebuild the site around structured academic content`
 - 已建立 commit：`546efdc` `Refine the homepage content layout`
 - 已建立 commit：`1126377` `Polish homepage presentation and project data`
+- 已建立 commit：`a4d39b4` `Update project notes for GitHub Pages rollout`
 - commit 後又追加首頁微調：首頁研究計畫分成 `國科會研究計畫` / `教育部研究計畫`、兩組皆列到 2010 年、服務與獲獎改為近 5 年、移除首頁授課課程、縮小右側照片
 - `tmp-source/` 已加入 `.gitignore`，避免持續出現在 worktree
 - 已建立 GitHub repo：`https://github.com/Chowsing/mikelin-site`
 - 已改用 SSH remote 並成功推送 `master` 到 GitHub
+- 已在 Pages settings 啟用 `GitHub Actions`
+- 發現 404 後已補推最新 `master`，目前等待 Actions 完成首次部署
 
 ## Suggested Prompt Next Time
 
@@ -34,6 +37,5 @@
 ## Open Questions
 
 - 目前尚未確認首頁在瀏覽器中的實際呈現是否符合預期
-- 尚未確認 GitHub Pages 是否已在 repo settings 啟用 `GitHub Actions`
 - 尚未確認 Actions deploy 是否成功
 - 尚未確認實際部署網址顯示是否符合預期

@@ -23,6 +23,8 @@
 - 已建立 commit：`1126377` `Polish homepage presentation and project data`
 - 已建立 GitHub repo：`https://github.com/Chowsing/mikelin-site`
 - 已改用 SSH remote 並成功推送 `master` 到 GitHub
+- 已建立 commit：`a4d39b4` `Update project notes for GitHub Pages rollout`
+- 已再將最新 `master` 推送到 GitHub，等待 GitHub Pages workflow 完成首次部署
 
 ## Important Files
 
@@ -49,3 +51,4 @@
 - 目前 build 已通過；部署 workflow 分支觸發也已補齊，若要確認可否發布，優先做頁面顯示檢查
 - 本輪主要持續調整首頁，子頁面資料與結構未另外重組
 - GitHub Pages 若尚未生效，先到 repo settings 把 Pages source 設為 `GitHub Actions`
+- 若網站仍顯示 404，先到 GitHub Actions 確認 `Deploy Astro to GitHub Pages` 是否已成功
