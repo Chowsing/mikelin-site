@@ -19,6 +19,10 @@
 - 已建立 commit：`d3192db` `Rebuild the site around structured academic content`
 - commit 後持續微調首頁：研究計畫改為首頁分組顯示 `國科會研究計畫` / `教育部研究計畫`，增加國科會項目數、移除首頁授課課程區塊、縮小右側照片
 - `tmp-source/` 已確認為資料擷取用本地快照，已加入 `.gitignore`
+- 已建立 commit：`546efdc` `Refine the homepage content layout`
+- 已建立 commit：`1126377` `Polish homepage presentation and project data`
+- 已建立 GitHub repo：`https://github.com/Chowsing/mikelin-site`
+- 已改用 SSH remote 並成功推送 `master` 到 GitHub
 
 ## Important Files
 
@@ -44,4 +48,4 @@
 - 再看 `NEXT_STEPS.md`
 - 目前 build 已通過；部署 workflow 分支觸發也已補齊，若要確認可否發布，優先做頁面顯示檢查
 - 本輪主要持續調整首頁，子頁面資料與結構未另外重組
-- 目前 commit 後還有未提交收尾：首頁微調與 `.gitignore`
+- GitHub Pages 若尚未生效，先到 repo settings 把 Pages source 設為 `GitHub Actions`
