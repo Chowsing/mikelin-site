@@ -1,8 +1,8 @@
 - type: journal
-  year: 2023
+  year: 2024
   citation: Yu-Sian Lin and C.-S. Lin*, “Enhancing the accuracy of prototype
     learning in road anomaly segmentation by adding adversarial perturbations to
-    data, ” Multimedia Tools and Applications, Nov. 2023. (SCI)
+    data,” Multimedia Tools and Applications, vol. 83, pp.55627-55640, May 2024. (SCI)
 - type: journal
   year: 2023
   citation: 林亮宇，林朝興* “ 利用多尺度感興趣區域之細微關係提供圖片字幕“, 理工研究國際期刊(IJSE), vol. 13, no. 2, 2023.
@@ -12,12 +12,21 @@
 - type: journal
   year: 2022
   citation: Hong-Yun Chen and C.-S. Lin*, “Tiled Streaming for Layered 3D Virtual
-    Reality Videos with Viewport Prediction, ” Multimedia Tools and
+    Reality Videos with Viewport Prediction," Multimedia Tools and
     Applications, vol. 81, pp. 13867-13888, Feb. 2022. (SCI)
 - type: journal
   year: 2022
   citation: 吳威廷，林朝興* “ 影像辨識神經網路應用於愛文芒果不良品分析與預測“, 理工研究國際期刊(IJSE), vol. 12, no. 2,
     pp. 90-108, 2022.
+- type: conference
+  year: 2025
+  citation: Cheng-You Yand, Chia-Chien Chiang, Yu-Wen Huang, Ariel Lin, Chow-Sing Lin “RAG-Evidenced Clinical Knowledge Graphs with Dual-Attention for EHR Multi-Task Prediction,” 2025 IEEE 7th Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (IEEE ECBIOS 2025), Kaohsiung, Taiwan, Oct. 23-25, 2025.
+- type: conference
+  year: 2025
+  citation: Hong-Wen Chen and Chow-Sing Lin “A Multi-task Learning Approach Enhanced by Action Prompts and Prior Knowledge for 3D Human Pose Estimation,” International Conference on Innovation, Communication and Engineering (ICICE 2025), Kuala Lumpur, Malaysia, Oct. 28-31, 2025.
+- type: conference
+  year: 2024
+  citation: Yu-Cheng Chen and Chow-Sing Lin “Combining Anomaly Detection to Improve Generalization and Detection Accuracy of Few Shot Object Detection,” 2024 8th International Symposium on Computer Science and Intelligent Control (ISCSIC 2024), Zhengzhou, China, September 6-8, 2024.
 - type: conference
   year: 2022
   citation: Yu-Sian Lin and Chow-Sing Lin “Enhancing the Accuracy of Prototype
