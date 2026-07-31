@@ -45,11 +45,9 @@
   sponsorEn: Ministry of Education
   role: 團隊教授
 - category: 國科會研究計畫
-  title: 112 專題研究計畫（一般研究計畫）
-  titleEn: 2023 NSTC Research Project (General Research Project)
+  title: 結合異常偵測提高少樣本物件偵測的泛化性和準確度
+  titleEn: Improving the generalization and accuracy of few-shot object detection with anomaly detection
   year: 2023
-  topic: 結合異常偵測提高少樣本物件偵測的泛化性和準確度
-  topicEn: Improving the generalization and accuracy of few-shot object detection with anomaly detection
   projectNumber: 112-2221-E-024-009-
   sponsor: 國科會
   sponsorEn: National Science and Technology Council
@@ -61,11 +59,9 @@
   period: 2023/7 ~ 2024/2
   projectNumber: NSTC 112-2813-C-024-007-E
 - category: 國科會研究計畫
-  title: 111 專題研究計畫（一般研究計畫）
-  titleEn: 2022 NSTC Research Project (General Research Project)
+  title: 透過原型學習結合對抗性擾動提高道路異常檢測準確度
+  titleEn: Improving road anomaly detection accuracy through prototype learning with adversarial perturbations
   year: 2022
-  topic: 透過原型學習結合對抗性擾動提高道路異常檢測準確度
-  topicEn: Improving road anomaly detection accuracy through prototype learning with adversarial perturbations
   projectNumber: 111-2221-E-024 -014 -
   sponsor: 國科會
   sponsorEn: National Science and Technology Council
@@ -85,11 +81,9 @@
   partnerEn: Cheng Yi Health Enterprise Co., Ltd.
   period: 2021/7 ~ 2022/1
 - category: 國科會研究計畫
-  title: 109 專題研究計畫（一般研究計畫）
-  titleEn: 2020 MOST Research Project (General Research Project)
+  title: 利用多尺度感興趣區域之細微關係提供圖片字幕
+  titleEn: Image captioning with fine-grained relationships among multiscale regions of interest
   year: 2020
-  topic: 利用多尺度感興趣區域之細微關係提供圖片字幕
-  topicEn: Image captioning with fine-grained relationships among multiscale regions of interest
   projectNumber: 109-2221-E-024 -011 -
   sponsor: 國科會
   sponsorEn: Ministry of Science and Technology
