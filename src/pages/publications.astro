@@ -6,12 +6,13 @@ import { getPublications, groupBy, mergePreferredOrder } from '../lib/data';
 
 const publications = getPublications();
 const typeLabels = {
+  'under-review': '審稿中期刊論文',
   journal: '期刊論文',
   conference: '研討會論文',
   book: '專書論文',
 };
 const byType = groupBy(publications, (item) => item.type);
-const typeOrder = mergePreferredOrder(['journal', 'conference', 'book'], Object.keys(byType));
+const typeOrder = mergePreferredOrder(['under-review', 'journal', 'conference', 'book'], Object.keys(byType));
 ---
 
 <BaseLayout title="論文" currentPath="/publications">
