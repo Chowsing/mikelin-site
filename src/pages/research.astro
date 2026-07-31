@@ -26,7 +26,7 @@ const orderedCategories = mergePreferredOrder(
     orderedCategories.map((category) => (
       <section class="section">
         <div class="container">
-          <SectionTitle title={category} />
+          <SectionTitle title={category === '大專生科技研究計畫' ? '大專學生研究計畫' : category} />
           <div class="project-grid">
             {(groups[category] ?? []).map((project) => (
               <article class="project-card">
