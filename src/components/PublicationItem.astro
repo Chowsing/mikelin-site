@@ -3,6 +3,6 @@ const { publication } = Astro.props;
 ---
 
 <li class="publication-item">
-  <span class="publication-badge">{publication.type === 'journal' ? '期刊' : publication.type === 'conference' ? '研討會' : '專書'}</span>
+  <span class="publication-badge">{publication.type === 'journal' || publication.type === 'under-review' ? '期刊' : publication.type === 'conference' ? '研討會' : '專書'}</span>
   <p>{publication.citation}</p>
 </li>
