@@ -32,7 +32,7 @@ export type ResearchProject = {
 };
 
 export type Publication = {
-  type: 'journal' | 'conference' | 'book';
+  type: 'under-review' | 'journal' | 'conference' | 'book';
   year: number;
   citation: string;
 };
@@ -101,7 +101,7 @@ export function getAwards() {
   return readYaml<Award[]>('awards.yaml');
 }
 
-export function groupBy<T, K extends PropertyKey>(items: T[], getKey: (item: T) => K) {
+export function groupBy<T, K extends PropertyKey>(items: T[], getKey: (item) => K) {
   return items.reduce((groups, item) => {
     const key = getKey(item);
     groups[key] ??= [];
