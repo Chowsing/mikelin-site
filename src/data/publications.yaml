@@ -74,13 +74,12 @@
     Estimation with Spatio-Temporal Feature Enhancement and Action Prompts,” 2026
     The 9th International Conference on Computational Intelligence and Intelligent
     Systems (CIIS 2026), Osaka, Japan, Oct. 26-28, 2026.
-- type: conference
+- type: in-submission
   year: 2026
   citation: >-
     Ching-Hung Cheng, Yu-Heng Hsiao, Yu-Lun Tseng, and Chow-Sing Lin,
-    “Cross-Camera Vehicle Tracking with GRPO-Trained Vision-Language Models,” The
-    31st International Conference on Technologies and Applications of Artificial
-    Intelligence (TAAI 2026), New Taipei City, Taiwan, Nov. 20-21, 2026.
+    “Cross-Camera Vehicle Tracking with GRPO-Trained Vision-Language Models,”
+    in submission.
 - type: conference
   year: 2025
   citation: Cheng-You Yand, Chia-Chien Chiang, Yu-Wen Huang, Ariel Lin, Chow-Sing Lin “RAG-Evidenced Clinical Knowledge Graphs with Dual-Attention for EHR Multi-Task Prediction,” 2025 IEEE 7th Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (IEEE ECBIOS 2025), Kaohsiung, Taiwan, Oct. 23-25, 2025.
