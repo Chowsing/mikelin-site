@@ -32,7 +32,7 @@ export type ResearchProject = {
 };
 
 export type Publication = {
-  type: 'in-submission' | 'under-review' | 'journal' | 'conference' | 'book';
+  type: 'in-submission' | 'under-review' | 'journal' | 'conference' | 'book' | 'thesis';
   year: number;
   citation: string;
 };
