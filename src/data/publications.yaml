@@ -3,36 +3,34 @@
   citation: >-
     Yu-Cheng Chen and Chow-Sing Lin, “Combining Anomaly Detection to Improve
     Generalization and Detection Accuracy of Few-Shot Object Detection,” submitted
-    to Multimedia Tools and Applications, 2026/1, under reviewing.
+    to Multimedia Tools and Applications, 2026/1, under review.
 - type: under-review
   year: 2026
   citation: >-
     Te-Sheng Chang, Shao-Ju Lin, Yi-Chen Chang, Hsiou-Yu Ding, Hsin-Yen Lu,
-    Wei-Tzu Chen, Chow-Sing Lin, Jiumn-Yih Wu, and Tzi-Yuan Wang, “Programing a
-    knowledge-based screening of novel biotransfomable compounds using predicted
-    data mining approach 2 (PDMA2),” submitted to American Society for
-    MicroBiology (ASM), 2026/2, under reviewing.
-- type: under-review
+    Wei-Tzu Chen, Chow-Sing Lin, Jiumn-Yih Wu, and Tzi-Yuan Wang, “Programming a
+    knowledge-based screening of novel biotransformable compounds using predicted
+    data mining approach 2 (PDMA2),” submitted to an ASM journal, 2026/2,
+    under review.
+- type: in-submission
   year: 2026
   citation: >-
     Wei-Tzu Chen and Chow-Sing Lin, “BiMGF-Net: A Bidirectional Mamba-Based
     Early-Gated Fusion Network for Speech-Based Depression Recognition,”
-    submitted to Journal of Medical and Biological Engineering (JMBE), 2026/7,
-    under reviewing.
+    in submission.
 - type: under-review
   year: 2026
   citation: >-
     Ding-Chang Wu and Chow-Sing Lin, “A Dual-View Intelligent Badminton Analysis
     System Using Lightweight Motion-Aware Tracking,” submitted to Sports
-    Engineering, 2026/8, under reviewing.
-- type: under-review
+    Engineering, 2026/8, under review.
+- type: in-submission
   year: 2025
   citation: >-
     Cheng-You Yang, Chia-Chien Chiang, Yu-Wen Huang, Ariel Lin, and Chow-Sing Lin,
     “DA-MedRGAT: Literature-Evidenced Clinical Knowledge Graphs with
-    Dual-Attention Graph Networks for Multi-Task Prediction on EHRs,” submitted
-    to Journal of Biomedical and Health Informatics (JBHI), 2025/10, under
-    reviewing.
+    Dual-Attention Graph Networks for Multi-Task Prediction on EHRs,”
+    in submission.
 - type: journal
   year: 2024
   citation: Yu-Sian Lin and C.-S. Lin*, “Enhancing the accuracy of prototype
@@ -82,7 +80,12 @@
     in submission.
 - type: conference
   year: 2025
-  citation: Cheng-You Yand, Chia-Chien Chiang, Yu-Wen Huang, Ariel Lin, Chow-Sing Lin “RAG-Evidenced Clinical Knowledge Graphs with Dual-Attention for EHR Multi-Task Prediction,” 2025 IEEE 7th Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (IEEE ECBIOS 2025), Kaohsiung, Taiwan, Oct. 23-25, 2025.
+  citation: >-
+    Cheng-You Yang, Chia-Chien Chiang, Yu-Wen Huang, Ariel Lin, and Chow-Sing Lin,
+    “DA-MedRGAT: RAG-Evidenced Clinical Knowledge Graphs with Dual-Attention for
+    EHR Multi-Task Prediction,” 2025 IEEE 7th Eurasia Conference on Biomedical
+    Engineering, Healthcare and Sustainability (IEEE ECBIOS 2025), Kaohsiung,
+    Taiwan, Oct. 23-25, 2025.
 - type: conference
   year: 2025
   citation: Hong-Wen Chen and Chow-Sing Lin “A Multi-task Learning Approach Enhanced by Action Prompts and Prior Knowledge for 3D Human Pose Estimation,” International Conference on Innovation, Communication and Engineering (ICICE 2025), Kuala Lumpur, Malaysia, Oct. 28-31, 2025.
@@ -154,10 +157,10 @@
     June 2016. (EI)
 - type: journal
   year: 2016
-  citation: "C.-S. Lin*, Wei-Jong Yang, and Jing-Wei Su “FITD: Fast Intra
+  citation: "C.-S. Lin*, Wei-Jong Yang, and Chieh-Wei Su “FITD: Fast Intra
     Transcoding from H.264/AVC to high efficiency video coding based on DCT
-    coefficients and prediction modes, ” Journal of Visual Image Communication
-    and Image Representation (SCI), vol. 8, pp. 130-140, July 2016."
+    coefficients and prediction modes, ” Journal of Visual Communication
+    and Image Representation (SCI), vol. 38, pp. 130-140, July 2016."
 - type: journal
   year: 2016
   citation: "C.-S. Lin* and Jhe-Wei Lin “UR-Aware: Streaming Videos over
@@ -277,9 +280,8 @@
 - type: journal
   year: 2011
   citation: C.-S. Lin* and Pin-Ching Huang, “Dynamic Handoff Ordering Adjustment
-    for Multimedia Cellular Network, International Journal of Communications,
-    Network and System Sciences, vol. 4, no. 8, pp. 495-506, Aug. 2011
-    (Google-based Impact Factor=0.89)
+    for Multimedia Cellular Network,” International Journal of Communications,
+    Network and System Sciences, vol. 4, no. 8, pp. 495-506, Aug. 2011.
 - type: journal
   year: 2011
   citation: C.-S. Lin* “Enhancing P2P Live Streaming Performance by Balancing
@@ -424,7 +426,7 @@
 - type: journal
   year: 2007
   citation: "C.-S. Lin* and Y.-C. Cheng “P2MCMD: A Scalable Approach to VoD
-    Services Over Peer-to-Peer Networks, ” Journal of Distributed and Parallel
+    Service Over Peer-to-Peer Networks, ” Journal of Parallel and Distributed
     Computing, vol. 67, no. 8, pp. 903-921, 2007. (SCI, EI)"
 - type: journal
   year: 2007
@@ -459,11 +461,12 @@
   citation: "C.-S. Lin*, “PFCF: An Effective VBR Stream Scheduling Algorithm for
     Clustered Media Systems, ” Journal of Internet Technology, vol. 7, no. 3,
     pp. 293-304, July 2006. (SCI, EI)"
-- type: journal
+- type: conference
   year: 2006
   citation: C.-S. Lin* and C.-C. Lu “Applying Dynamic Handoff to Increase System
-    Performance on Wireless Cellular Networks, ” Lecture Notes in Computer
-    Science, pp. 609-619, May 2006. (SCI, EI)
+    Performance on Wireless Cellular Networks,” First International Conference
+    on Grid and Pervasive Computing (GPC 2006), Lecture Notes in Computer Science,
+    vol. 3947, pp. 609-619, May 2006.
 - type: journal
   year: 2006
   citation: "C.-S. Lin* and C.-J. Hsieh “SOTS-CE: A Sonography Ovarian Tumor
@@ -650,14 +653,14 @@
     & Expo, July 2000.
 - type: conference
   year: 2000
-  citation: C.-S. Lin, M. Y. Wu and W. Shu, July 2000, "Transmitting
+  citation: C.-S. Lin, M. Y. Wu and W. Shu, "Transmitting
     Variable-Bit-Rate Videos on Clustered VoD Systems", in Proc. of 2000 IEEE
-    International Conference on Multimedia & Expo, March 2000.
+    International Conference on Multimedia & Expo, July 2000.
 - type: conference
   year: 2000
   citation: C.-S. Lin, W. Shu, M. Y. Wu and X. Zeng, "VoD on Internet2", in Proc.
     of ISCA/CATA-2000.
-- type: book
+- type: thesis
   year: 2000
   citation: C.-S. Lin “On Design and Implementation of Parallel Video Servers, ”
     Ph. D. Dissertation, University of Central Florida, USA, May 2000.
