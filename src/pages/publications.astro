@@ -11,9 +11,13 @@ const typeLabels = {
   journal: '期刊論文',
   conference: '研討會論文',
   book: '專書論文',
+  thesis: '學位論文',
 };
 const byType = groupBy(publications, (item) => item.type);
-const typeOrder = mergePreferredOrder(['in-submission', 'under-review', 'journal', 'conference', 'book'], Object.keys(byType));
+const typeOrder = mergePreferredOrder(
+  ['in-submission', 'under-review', 'journal', 'conference', 'book', 'thesis'],
+  Object.keys(byType),
+).filter((type) => (byType[type] ?? []).length > 0);
 ---
 
 <BaseLayout title="論文" currentPath="/publications">

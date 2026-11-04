@@ -1,5 +1,19 @@
 - category: 學術服務
   year: 2026
+  role: Technical Committee Member
+  description: The 9th International Conference on Computational Intelligence and Intelligent Systems (CIIS 2026), Osaka, Japan, Oct. 26-28, 2026
+  descriptionEn: The 9th International Conference on Computational Intelligence and Intelligent Systems (CIIS 2026), Osaka, Japan, Oct. 26-28, 2026
+  fullText: Technical Committee Member, The 9th International Conference on Computational Intelligence and Intelligent Systems (CIIS 2026), Osaka, Japan, Oct. 26-28, 2026
+  fullTextEn: Technical Committee Member, The 9th International Conference on Computational Intelligence and Intelligent Systems (CIIS 2026), Osaka, Japan, Oct. 26-28, 2026
+- category: 學術服務
+  year: 2026
+  role: Session Chair
+  description: The 9th International Conference on Computational Intelligence and Intelligent Systems (CIIS 2026), Osaka, Japan, Oct. 26-28, 2026
+  descriptionEn: The 9th International Conference on Computational Intelligence and Intelligent Systems (CIIS 2026), Osaka, Japan, Oct. 26-28, 2026
+  fullText: Session Chair, The 9th International Conference on Computational Intelligence and Intelligent Systems (CIIS 2026), Osaka, Japan, Oct. 26-28, 2026
+  fullTextEn: Session Chair, The 9th International Conference on Computational Intelligence and Intelligent Systems (CIIS 2026), Osaka, Japan, Oct. 26-28, 2026
+- category: 學術服務
+  year: 2026
   role: 評審委員
   description: 2026臺南市第66屆科展
   descriptionEn: 66th Tainan City Science Fair, 2026
@@ -202,16 +216,6 @@
   fullText: Reviewer, Transactions on Multimedia Computing Communications and
     Applications, 2016
 - category: 學術服務
-  year: 2016
-  role: 評審委員
-  description: 臺南市第56屆科展(2016)
-  fullText: 評審委員，臺南市第56屆科展(2016)
-- category: 學術服務
-  year: 2016
-  role: 專題演講
-  description: 南台科技大學 資工系(2016)
-  fullText: 專題演講, 南台科技大學 資工系(2016)
-- category: 學術服務
   year: 2015
   role: Reviewer
   description: Journal of Internet Technology, 2015
@@ -297,9 +301,9 @@
   fullText: 2013南台科技大學第16屆專題製作競賽資訊工程組評審
 - category: 學術服務
   year: 2013
-  role: Sessin Chair
+  role: Session Chair
   description: ISWPC 2013
-  fullText: Sessin Chair, ISWPC 2013
+  fullText: Session Chair, ISWPC 2013
 - category: 學術服務
   year: 2013
   role: 議程委員
@@ -457,9 +461,9 @@
     Intelligent, and Software Intensive Systems (CISIS-2011)
 - category: 學術服務
   year: 2011
-  role: Revierer
+  role: Reviewer
   description: IEEE Trans. on Broadcasting (2011)
-  fullText: Revierer, IEEE Trans. on Broadcasting (2011)
+  fullText: Reviewer, IEEE Trans. on Broadcasting (2011)
 - category: 學術服務
   year: 2011
   role: Reviewer
@@ -517,14 +521,14 @@
 - category: 學術服務
   year: 2009
   role: Reviewer
-  description: Journal of Parallel and Distribution Computing (2009)
-  fullText: Reviewer, Journal of Parallel and Distribution Computing (2009)
+  description: Journal of Parallel and Distributed Computing (2009)
+  fullText: Reviewer, Journal of Parallel and Distributed Computing (2009)
 - category: 學術服務
   year: 2009
-  role: Session Cair
+  role: Session Chair
   description: The 22nd International Conference on Industrial, Engineering &
     Other Applications of Applied Intelligent Systems (IEA/AIE-2009)
-  fullText: Session Cair, The 22nd International Conference on Industrial,
+  fullText: Session Chair, The 22nd International Conference on Industrial,
     Engineering & Other Applications of Applied Intelligent Systems
     (IEA/AIE-2009)
 - category: 學術服務
@@ -537,8 +541,8 @@
 - category: 學術服務
   year: 2009
   role: Program Committee
-  description: National Computer Synposium (NCS), 2009
-  fullText: Program Committee，National Computer Synposium (NCS), 2009
+  description: National Computer Symposium (NCS), 2009
+  fullText: Program Committee，National Computer Symposium (NCS), 2009
 - category: 學術服務
   year: 2009
   role: Reviewer
@@ -551,9 +555,9 @@
   fullText: Reviewer, Computers & Electrical Engineering (2009)
 - category: 學術服務
   year: 2008
-  role: Toturial Session Chair
+  role: Tutorial Session Chair
   description: The 5th Workshop on Grid Technologies and Applications (WoGTA'08), 2008
-  fullText: Toturial Session Chair, The 5th Workshop on Grid Technologies and
+  fullText: Tutorial Session Chair, The 5th Workshop on Grid Technologies and
     Applications (WoGTA'08), 2008
 - category: 學術服務
   year: 2008
@@ -574,10 +578,10 @@
   fullText: Session Chair， 2006 數位教學暨資訊實務研討會
 - category: 學術服務
   year: 2006
-  role: Sesssion Chair
+  role: Session Chair
   description: The 2006 International Conference on Computer Science and
     Informatics (CS&I 2006)
-  fullText: Sesssion Chair, The 2006 International Conference on Computer Science
+  fullText: Session Chair, The 2006 International Conference on Computer Science
     and Informatics (CS&I 2006)
 - category: 學術服務
   year: 2006
@@ -600,8 +604,8 @@
 - category: 學術服務
   year: 2005
   role: Reviewer
-  description: Journal of Parallel and Distribution Computing (2005)
-  fullText: Reviewer, Journal of Parallel and Distribution Computing (2005)
+  description: Journal of Parallel and Distributed Computing (2005)
+  fullText: Reviewer, Journal of Parallel and Distributed Computing (2005)
 - category: 學術服務
   year: 2005
   role: Program Chair
@@ -615,8 +619,8 @@
 - category: 學術服務
   year: 2003
   role: 主持人
-  description: 朝楊科大資訊管理所碩士論文口試(2003/5)
-  fullText: 主持人，朝楊科大資訊管理所碩士論文口試(2003/5)
+  description: 朝陽科大資訊管理所碩士論文口試(2003/5)
+  fullText: 主持人，朝陽科大資訊管理所碩士論文口試(2003/5)
 - category: 學術服務
   year: 2002
   role: Reviewer
@@ -625,22 +629,22 @@
 - category: 學術服務
   year: 2002
   role: 主持人
-  description: 朝楊科大資訊管理所碩士論文口試(2002/5)
-  fullText: 主持人，朝楊科大資訊管理所碩士論文口試(2002/5)
+  description: 朝陽科大資訊管理所碩士論文口試(2002/5)
+  fullText: 主持人，朝陽科大資訊管理所碩士論文口試(2002/5)
 - category: 學術服務
   year: 2001
   role: Reviewer
-  description: IEEE Transaction of on Knowledge and Data Engineering(2001)
-  fullText: Reviewer, IEEE Transaction of on Knowledge and Data Engineering(2001)
+  description: IEEE Transactions on Knowledge and Data Engineering(2001)
+  fullText: Reviewer, IEEE Transactions on Knowledge and Data Engineering(2001)
 - category: 學術服務
-  year: null
+  year: 2020
   role: Technical Program Committee
   description: The 18th International Conference on Advances in Mobile Computing &
     Multimedia MM2020)
   fullText: Technical Program Committee, The 18th International Conference on
     Advances in Mobile Computing & Multimedia MM2020)
 - category: 學術服務
-  year: null
+  year: 2017
   role: Technical Program Committee
   description: The 15th International Conference on Advances in Mobile Computing &
     Multimedia (MoMM2017)
@@ -669,23 +673,23 @@
   description: IET Communications
   fullText: Reviewer, IET Communications
 - category: 學術服務
-  year: null
+  year: 2010
   role: Session Chair
   description: International Conference on Business and Information (BAI2010)
   fullText: Session Chair, International Conference on Business and Information (BAI2010)
 - category: 學術服務
-  year: null
+  year: 2010
   role: Reviewer of best papers
   description: International Conference on Business and Information (BAI2010)
   fullText: Reviewer of best papers, International Conference on Business and
     Information (BAI2010)
 - category: 學術服務
-  year: null
+  year: 2010
   role: Reviewer
   description: Tanet2010
   fullText: Reviewer, Tanet2010
 - category: 學術服務
-  year: null
+  year: 2010
   role: Program committee
   description: Tanet2010
   fullText: Program committee, Tanet2010
@@ -695,12 +699,12 @@
   description: Journal of Internet Technology
   fullText: Reviewer, Journal of Internet Technology
 - category: 學術服務
-  year: null
+  year: 2010
   role: Reviewer
   description: VTC2010-Spring in Taipei
   fullText: Reviewer, VTC2010-Spring in Taipei
 - category: 學術服務
-  year: null
+  year: 2009
   role: Program Committee
   description: 第十四屆人工智慧與應用研討會(TAAI2009)
   fullText: Program Committee, 第十四屆人工智慧與應用研討會(TAAI2009)

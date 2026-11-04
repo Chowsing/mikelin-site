@@ -24,7 +24,10 @@ const featuredProjectGroups = [
     items: (researchProjectsByCategory['教育部研究計畫'] ?? []).filter((project) => project.year >= 2010),
   },
 ].filter((group) => group.items.length > 0);
-const publications = getPublications().slice(0, 6);
+const publications = getPublications()
+  .filter((publication) => publication.type === 'journal' || publication.type === 'conference')
+  .sort((a, b) => b.year - a.year)
+  .slice(0, 6);
 const recentServiceCutoffYear = new Date().getFullYear() - 4;
 const services = getServices().filter((item) => item.year >= recentServiceCutoffYear);
 const awards = getAwards().filter((item) => item.year >= recentServiceCutoffYear);
