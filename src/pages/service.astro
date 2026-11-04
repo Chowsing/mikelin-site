@@ -4,7 +4,7 @@ import SectionTitle from '../components/SectionTitle.astro';
 import Timeline from '../components/Timeline.astro';
 import { getServices, groupBy, mergePreferredOrder } from '../lib/data';
 
-const services = getServices();
+const services = getServices().sort((a, b) => (b.year ?? 0) - (a.year ?? 0));
 const groups = groupBy(services, (item) => item.category);
 const categories = mergePreferredOrder(['學術服務', '行政服務'], Object.keys(groups));
 ---
